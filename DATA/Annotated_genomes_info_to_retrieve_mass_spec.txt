@@ -1,0 +1,1420 @@
+Taxid	Assembly	Specie	assembly_level	To_retrieve_MassSpec	Specie_name_orig_dataset
+2287	GCA_000007005.1	Saccharolobus^solfataricus^P2	Complete Genome	1	Sulfolobus solfaticarius
+2320	GCA_000007185.1	Methanopyrus^kandleri^AV19	Complete Genome	1	Methanopyrus kandleri
+2261	GCA_000007305.1	Pyrococcus^furiosus^DSM^3638	Complete Genome	1	Pyrococcus furiosus
+82076	GCA_000008265.1	Picrophilus^torridus^DSM^9790	Complete Genome	1	Picrophilus torridus
+145262	GCA_000008645.1	Methanothermobacter^thermautotrophicus^str.^Delta^H	Complete Genome	1	Methanothermobacter thermautotrophicus
+2234	GCA_000008665.1	Archaeoglobus^fulgidus^DSM^4304	Complete Genome	1	Archaeoglobus fulgidus
+2238	GCA_000011085.1	Haloarcula^marismortui^ATCC^43049	Complete Genome	1	Haloarculamarismortui
+50339	GCA_000011185.1	Thermoplasma^volcanium^GSS1	Complete Genome	1	Thermoplasma volcanium
+2285	GCA_000012285.1	Sulfolobus^acidocaldarius^DSM^639	Complete Genome	1	Sulfolobus acidocaldicarius
+84156	GCA_000025285.1	Archaeoglobus^profundus^DSM^5631	Complete Genome	1	Archaeoglobus profundus
+54261	GCA_000025505.1	Ferroglobus^placidus^DSM^10642	Complete Genome	1	Ferroglobus placidus
+2190	GCA_000091665.1	Methanocaldococcus^jannaschii^DSM^2661	Complete Genome	1	Mathanocaldococcus jannaschii
+145263	GCA_000145295.1	Methanothermobacter^marburgensis^str.^Marburg	Complete Genome	1	Methanothermobacter marburgensis
+2303	GCA_000195915.1	Thermoplasma^acidophilum^DSM^1728	Complete Genome	1	Thermoplasma acidophilum
+2265	GCA_000246985.3	Thermococcus^litoralis^DSM^5473	Complete Genome	1	Thermococcus litoralis
+2252	GCA_000306765.2	Haloferax^mediterranei^ATCC^33500	Complete Genome	1	Haloferax mediterranei
+2208	GCA_000970025.1	Methanosarcina^barkeri^MS	Complete Genome	1	Methanosarcina barkeri
+2242	GCA_000069025.1	Halobacterium^salinarum^R1	Complete Genome	1	Halobacterium sp
+1291540	GCA_000300255.2	Candidatus^Methanomethylophilus^alvus^Mx1201	Complete Genome	1	Methanomethylophilus alvus
+1080712	GCA_000308215.1	Methanomassiliicoccus^luminyensis^B10	Contig	1	Methanomassiliicoccus luminyensis
+751944	GCA_000230955.3	Halobacterium^sp.^DL1	Complete Genome		
+2188	GCA_000006175.2	Methanococcus^voltae^A3	Complete Genome		
+2209	GCA_000007065.1	Methanosarcina^mazei^Go1	Complete Genome		
+13773	GCA_000007225.1	Pyrobaculum^aerophilum^str.^IM2	Complete Genome		
+2214	GCA_000007345.1	Methanosarcina^acetivorans^C2A	Complete Genome		
+160232	GCA_000008085.1	Nanoarchaeum^equitans^Kin4-M	Complete Genome		
+311400	GCA_000009965.1	Thermococcus^kodakarensis^KOD1	Complete Genome		
+570267	GCA_000011005.1	Methanocella^paludicola^SANAE	Complete Genome		
+53953	GCA_000011105.1	Pyrococcus^horikoshii^OT3	Complete Genome		
+56636	GCA_000011125.1	Aeropyrum^pernix^K1	Complete Genome		
+111955	GCA_000011205.1	Sulfurisphaera^tokodaii^str.^7	Complete Genome		
+39152	GCA_000011585.1	Methanococcus^maripaludis^S2	Complete Genome		
+2317	GCA_000012545.1	Methanosphaera^stadtmanae^DSM^3091	Complete Genome		
+2203	GCA_000013445.1	Methanospirillum^hungatei^JF-1	Complete Genome		
+29291	GCA_000013725.1	Methanococcoides^burtonii^DSM^6242	Complete Genome		
+2224	GCA_000014945.1	Methanothrix^thermoacetophila^PT	Complete Genome		
+54248	GCA_000015145.1	Hyperthermus^butylicus^DSM^5456	Complete Genome		
+2277	GCA_000015205.1	Pyrobaculum^islandicum^DSM^4184	Complete Genome		
+2269	GCA_000015225.1	Thermofilum^pendens^Hrk^5	Complete Genome		
+83984	GCA_000015765.1	Methanocorpusculum^labreanum^Z	Complete Genome		
+181486	GCA_000015805.1	Pyrobaculum^calidifontis^JCM^11548	Complete Genome		
+2198	GCA_000015825.1	Methanoculleus^marisnigri^JR1	Complete Genome		
+2280	GCA_000015945.1	Staphylothermus^marinus^F1	Complete Genome		
+39152	GCA_000016125.1	Methanococcus^maripaludis^C5	Complete Genome		
+121277	GCA_000016385.1	Pyrobaculum^arsenaticum^DSM^13514	Complete Genome		
+2173	GCA_000016525.1	Methanobrevibacter^smithii^ATCC^35061	Complete Genome		
+43687	GCA_000016605.1	Metallosphaera^sedula^DSM^5348	Complete Genome		
+2187	GCA_000017165.1	Methanococcus^vannielii^SB	Complete Genome		
+42879	GCA_000017185.1	Methanococcus^aeolicus^Nankai-3	Complete Genome		
+39152	GCA_000017225.1	Methanococcus^maripaludis^C7	Complete Genome		
+358766	GCA_000017625.1	Methanoregula^boonei^6A8	Complete Genome		
+160233	GCA_000017945.1	Ignicoccus^hospitalis^KIN4/I	Complete Genome		
+76887	GCA_000018305.1	Caldivirga^maquilingensis^IC-167	Complete Genome		
+342948	GCA_000018365.1	Thermococcus^onnurineus^NA1	Complete Genome		
+338192	GCA_000018465.1	Nitrosopumilus^maritimus^SCM1	Complete Genome		
+39152	GCA_000018485.1	Methanococcus^maripaludis^C6	Complete Genome		
+498846	GCA_000019605.1	Candidatus^Korarchaeum^cryptofilum^OPF8	Complete Genome		
+70771	GCA_000019805.1	Pyrobaculum^neutrophilum^V24Sta	Complete Genome		
+94694	GCA_000020905.1	Desulfurococcus^amylolyticus^1221n	Complete Genome		
+475088	GCA_000021965.1	Methanosphaerula^palustris^E1-9c	Complete Genome		
+2247	GCA_000022205.1	Halorubrum^lacusprofundi^ATCC^49239	Complete Genome		
+187878	GCA_000022365.1	Thermococcus^gammatolerans^EJ3	Complete Genome		
+43080	GCA_000022385.1	Sulfolobus^islandicus^L.S.2.15	Complete Genome		
+172049	GCA_000022545.1	Thermococcus^sibiricus^MM^739	Complete Genome		
+146826	GCA_000023945.1	Halorhabdus^utahensis^DSM^12940	Complete Genome		
+57705	GCA_000023965.1	Halomicrobium^mukohataei^DSM^12286	Complete Genome		
+83171	GCA_000023985.1	Methanocaldococcus^fervens^AG86	Complete Genome		
+83816	GCA_000024185.1	Methanobrevibacter^ruminantium^M1	Complete Genome		
+73913	GCA_000024625.1	Methanocaldococcus^vulcanius^M7	Complete Genome		
+62320	GCA_000025325.1	Haloterrigena^turkmenica^DSM^5511	Complete Genome		
+644281	GCA_000025525.1	Methanocaldococcus^sp.^FS406-22	Complete Genome		
+13769	GCA_000025625.1	Natrialba^magadii^ATCC^43099	Complete Genome		
+379547	GCA_000025665.1	Aciduliprofundum^boonei^T469	Complete Genome		
+2246	GCA_000025685.1	Haloferax^volcanii^DS2	Complete Genome		
+2176	GCA_000025865.1	Methanohalophilus^mahii^DSM^5219	Complete Genome		
+2257	GCA_000026045.1	Natronomonas^pharaonis^DSM^2160	Complete Genome		
+1175445	GCA_000063445.1	Methanocella^arvoryzae^MRE50	Complete Genome		
+54254	GCA_000092185.1	Thermosphaera^aggregans^DSM^11486	Complete Genome		
+67760	GCA_000092305.1	Methanocaldococcus^infernus^ME	Complete Genome		
+84599	GCA_000092465.1	Staphylothermus^hellenicus^DSM^12710	Complete Genome		
+242703	GCA_000144915.1	Acidilobus^saccharovorans^345-15	Complete Genome		
+334771	GCA_000145985.1	Ignisphaera^aggregans^DSM^17230	Complete Genome		
+54120	GCA_000147875.1	Methanolacinia^petrolearia^DSM^11571	Complete Genome		
+164451	GCA_000148385.1	Vulcanisaeta^distributa^DSM^14429	Complete Genome		
+55802	GCA_000151105.2	Thermococcus^barophilus^MP	Complete Genome		
+246969	GCA_000151205.2	Thermococcus^sp.^AM4	Complete Genome		
+97393	GCA_000152265.2	Ferroplasma^acidarmanus^fer1	Complete Genome		
+2180	GCA_000166095.1	Methanothermus^fervidus^DSM^2088	Complete Genome		
+60847	GCA_000172995.2	Halogeometricum^borinquense^DSM^11551	Complete Genome		
+155863	GCA_000179575.2	Methanothermococcus^okinawensis^IH1	Complete Genome		
+2275	GCA_000186365.1	Desulfurococcus^mucosus^DSM^2162	Complete Genome		
+367189	GCA_000187225.2	Haladaptatus^paucihalophilus^DX253	Contig		
+2173	GCA_000190135.2	Methanobrevibacter^smithii^TS96A	Contig		
+985052	GCA_000190315.1	Vulcanisaeta^moutnovskia^768-28	Complete Genome		
+877455	GCA_000191585.1	Methanobacterium^lacus	Complete Genome		
+184117	GCA_000193375.1	Thermoproteus^uzoniensis^768-20	Complete Genome		
+58290	GCA_000194625.1	Archaeoglobus^veneficus^SNP6	Complete Genome		
+2208	GCA_000195895.1	Methanosarcina^barkeri^str.^Fusaro	Complete Genome		
+29292	GCA_000195935.2	Pyrococcus^abyssi^GE5	Complete Genome		
+2322	GCA_000196655.1	Methanohalobium^evestigatum^Z-7303	Complete Genome		
+413810	GCA_000196895.1	Halalkalicoccus^jeotgali^B3	Complete Genome		
+46770	GCA_000200715.1	Cenarchaeum^symbiosum^A	Chromosome		
+2223	GCA_000204415.1	Methanothrix^soehngenii^GP6	Complete Genome		
+1007084	GCA_000204585.1	Candidatus^Nitrosarchaeum^limnium^SFB1	Chromosome		
+1006005	GCA_000204925.1	Metallosphaera^cuprina^Ar-4	Complete Genome		
+342949	GCA_000211475.1	Pyrococcus^sp.^NA2	Complete Genome		
+563177	GCA_000213215.1	Acidianus^hospitalis^W1	Complete Genome		
+2189	GCA_000214415.1	Methanotorris^igneus^Kol^5	Complete Genome		
+868131	GCA_000214725.1	Methanobacterium^paludis	Complete Genome		
+430914	GCA_000215915.3	Halorhabdus^tiamatea^SARL4B	Contig		
+1008460	GCA_000215995.1	Pyrococcus^yayanosii^CH1	Complete Genome		
+387343	GCA_000217715.1	Halopiger^xanaduensis^SH-6	Complete Genome		
+39669	GCA_000217995.1	Methanosalsum^zhilinae^DSM^4017	Complete Genome		
+1088740	GCA_000220175.2	Nitrosarchaeum^koreense^MY1	Contig		
+889962	GCA_000220355.1	Candidatus^Nanosalinarum^sp.^J07AB56	Scaffold		
+889948	GCA_000220375.1	Candidatus^Nanosalina^sp.^J07AB43	Scaffold		
+1042877	GCA_000221185.1	Thermococcus^sp.^4557	Complete Genome		
+54252	GCA_000223395.1	Pyrolobus^fumarii^1A	Complete Genome		
+51589	GCA_000223905.1	Haloarcula^hispanica^ATCC^33960	Complete Genome		
+756883	GCA_000224475.1	halophilic^archaeon^DL31	Complete Genome		
+229731	GCA_000226975.3	Halobiforma^lacisalsi^AJ5	Complete Genome		
+1089683	GCA_000230485.1	uncultured^marine^crenarchaeote^'Gulf^of^Maine'	Scaffold		
+44930	GCA_000230715.3	Natronobacterium^gregoryi^SP2	Complete Genome		
+69525	GCA_000230735.3	Natrinema^pellirubrum^DSM^15624	Complete Genome		
+1104324	GCA_000234805.1	Pyrobaculum^ferrireducens	Complete Genome		
+301375	GCA_000235565.1	Methanosaeta^harundinacea^6Ac	Complete Genome		
+263906	GCA_000235685.3	Methanolinea^tarda^NOBI-1	Chromosome		
+1072681	GCA_000236195.2	Candidatus^Haloredivivus^sp.^G17	Contig		
+293091	GCA_000237865.1	Haloquadratum^walsbyi^C23	Complete Genome		
+1170320	GCA_000242875.3	Candidatus^Nitrosopumilus^salaria^BD31	Contig		
+2315	GCA_000243255.1	Methanoplanus^limicola^DSM^2279	Chromosome		
+1111107	GCA_000243315.1	Metallosphaera^yellowstonensis^MK1	Scaffold		
+213185	GCA_000243455.2	Methanotorris^formicicus^Mc-S-70	Contig		
+274854	GCA_000246735.1	uncultured^Candidatus^Poseidoniales^archaeon	Chromosome		
+1175444	GCA_000251105.1	Methanocella^conradii^HZ254	Complete Genome		
+2271	GCA_000253055.1	Thermoproteus^tenax^Kra^1	Complete Genome		
+683846	GCA_000258425.1	Fervidicoccus^fontis^Kam940	Complete Genome		
+54076	GCA_000258515.1	Thermococcus^zilligii^AN1	Contig		
+332168	GCA_000259215.1	Halococcus^hamelinensis^100A6	Contig		
+1183377	GCA_000263735.1	Pyrococcus^sp.^ST04	Complete Genome		
+1200300	GCA_000264495.1	Thermogladius^calderae^1633	Complete Genome		
+163003	GCA_000265525.1	Thermococcus^cleftensis	Complete Genome		
+311458	GCA_000270325.1	Candidatus^Caldiarchaeum^subterraneum	Complete Genome		
+2201	GCA_000275865.1	Methanofollis^liminatans^DSM^4140	Chromosome		
+406552	GCA_000281695.1	Natrinema^sp.^J7-2	Complete Genome		
+693851	GCA_000283335.1	Halogranum^salarium^B-1	Contig		
+1194088	GCA_000296615.1	Halorubrum^sp.^T3	Scaffold		
+1229909	GCA_000299395.1	Candidatus^Nitrosopumilus^sediminis	Complete Genome		
+2162	GCA_000302455.1	Methanobacterium^formicicum^DSM^3637	Contig		
+497727	GCA_000303155.1	Candidatus^Nitrososphaera^gargensis^Ga9.2	Complete Genome		
+83986	GCA_000304355.2	Methanoculleus^bourgensis^MS2	Complete Genome		
+420950	GCA_000306725.1	Methanolobus^psychrophilus^R15	Complete Genome		
+1220534	GCA_000309865.1	Methanobacterium^sp.^Maddingley^MBC34	Contig		
+200415	GCA_000317795.1	Caldisphaera^lagunensis^DSM^15908	Complete Genome		
+882104	GCA_000327485.1	Methanoregula^formicica^SMSP	Complete Genome		
+673860	GCA_000327505.1	Aciduliprofundum^sp.^MAR08-339	Complete Genome		
+387341	GCA_000328525.1	Halovivax^ruber^XH-70	Complete Genome		
+101192	GCA_000328665.1	Methanomethylovorans^hollandica^DSM^15978	Complete Genome		
+29288	GCA_000328685.1	Natronococcus^occultus^SP4	Complete Genome		
+1232219	GCA_000334895.1	Halococcus^agarilyticus	Contig		
+29282	GCA_000336635.1	Haloarcula^japonica^DSM^6131	Contig		
+2250	GCA_000336695.1	Halococcus^morrhuae^DSM^1307	Contig		
+335952	GCA_000336715.1	Halococcus^thailandensis^JCM^13552	Contig		
+403191	GCA_000336755.1	Haloferax^elongans^ATCC^BAA-1513	Contig		
+416585	GCA_000336875.1	Halorubrum^californiensis^DSM^19288	Contig		
+43776	GCA_000336895.1	Haloarcula^argentinensis^DSM^12282	Contig		
+62319	GCA_000336915.1	Halococcus^saccharolyticus^DSM^5350	Contig		
+36738	GCA_000336935.1	Halococcus^salifodinae^DSM^8989	Contig		
+302484	GCA_000336955.1	Haloferax^larsenii^JCM^13917	Contig		
+368623	GCA_000336995.1	Halorubrum^aidingense^JCM^13560	Contig		
+368454	GCA_000337015.1	Halorubrum^arcis^JCM^13916	Contig		
+64713	GCA_000337035.1	Halorubrum^coriense^DSM^10284	Contig		
+411361	GCA_000337095.1	Halogeometricum^pallidum^JCM^14848	Contig		
+68911	GCA_000337135.1	Natrialba^chahannaoensis^JCM^10990	Contig		
+88724	GCA_000337195.1	Natrinema^versiforme^JCM^10478	Contig		
+253107	GCA_000337215.1	Natronolimnobius^innermongolicus^JCM^12255	Contig		
+63128	GCA_000337235.1	Natronorubrum^tibetense^GA33	Contig		
+478441	GCA_000337355.1	Halorubrum^kocurii^JCM^14978	Contig		
+368624	GCA_000337375.1	Halorubrum^lipolyticum^DSM^21995	Contig		
+119434	GCA_000337415.1	Halorubrum^tebenquichense^DSM^14210	Contig		
+171164	GCA_000337455.1	Halosimplex^carlsbadense^2-9-1	Contig		
+370323	GCA_000337475.1	Haloterrigena^limicola^JCM^13563	Contig		
+504937	GCA_000337495.1	Haloterrigena^salina^JCM^13891	Contig		
+332953	GCA_000337515.1	Halovivax^asiaticus^JCM^14624	Contig		
+64602	GCA_000337555.1	Natrialba^asiatica^DSM^12278	Contig		
+123783	GCA_000337575.1	Natrialba^hulunbeirensis^JCM^10989	Contig		
+160846	GCA_000337595.1	Natrialba^taiwanensis^DSM^12281	Contig		
+69527	GCA_000337615.1	Natrinema^pallidum^DSM^3751	Contig		
+44470	GCA_000337675.1	Natronococcus^amylolyticus^DSM^10524	Contig		
+413812	GCA_000337695.1	Natronococcus^jeotgali^DSM^18795	Contig		
+61858	GCA_000337715.1	Natronorubrum^bangense^JCM^10635	Contig		
+388259	GCA_000337735.1	Natronorubrum^sulfidifaciens^JCM^14089	Contig		
+28442	GCA_000337775.1	Haloarcula^vallismortis^ATCC^29715	Contig		
+403181	GCA_000337815.1	Haloferax^mucosum^ATCC^BAA-1512	Contig		
+255616	GCA_000337835.1	Haloferax^sulfurifontis^ATCC^BAA-897	Contig		
+130048	GCA_000337895.1	Halobiforma^nitratireducens^JCM^10879	Contig		
+2248	GCA_000337915.1	Halorubrum^saccharovorum^DSM^1137	Contig		
+1198115	GCA_000349625.1	Thaumarchaeota^archaeon^SCGC^AB-539-E09	Contig		
+1198116	GCA_000349645.1	Thermoplasmatales^archaeon^SCGC^AB-539-N05	Contig		
+1242866	GCA_000349685.1	Thermoplasmatales^archaeon^SCGC^AB-540-F20	Contig		
+1054217	GCA_000350305.1	Thermoplasmatales^archaeon^BRNA1	Complete Genome		
+667126	GCA_000363885.1	Methanocaldococcus^villosus^KIN24-T80	Contig		
+1242690	GCA_000364885.1	Thermoplasmatales^archaeon^SCGC^AB-539-C06	Contig		
+913335	GCA_000372505.1	Marine^Group^III^euryarchaeote^SCGC^AAA007-O11	Contig		
+1130301	GCA_000375605.1	crenarchaeote^SCGC^AAA261-G18	Contig		
+1130318	GCA_000376025.1	euryarchaeote^SCGC^AAA261-G15	Contig		
+1131268	GCA_000376045.1	Marine^Group^II^euryarchaeote^SCGC^AB-629-J06	Contig		
+2186	GCA_000376965.1	Methanothermococcus^thermolithotrophicus^DSM^2095	Contig		
+1046938	GCA_000380865.1	Candidatus^Aenigmarchaeota^archaeon^SCGC^AAA011-F07	Contig		
+913336	GCA_000382725.2	Marine^Group^III^euryarchaeote^SCGC^AAA288-E19	Contig		
+1032475	GCA_000382765.1	Marine^group^II^euryarchaeote^SCGC^AAA288-C18	Contig		
+1316941	GCA_000385565.1	Archaeoglobus^sulfaticallidus^PM70-1	Complete Genome		
+1294122	GCA_000387965.1	Candidatus^Nanobsidianus^stetteri	Contig		
+1294123	GCA_000389735.1	Sulfolobales^archaeon^Acd1	Contig		
+1052841	GCA_000398585.1	Aigarchaeota^archaeon^JGI^0000001-H6	Contig		
+1131267	GCA_000399745.1	Marine^Group^I^thaumarchaeote^SCGC^AB-629-A13	Contig		
+1131266	GCA_000399765.1	Marine^Group^I^thaumarchaeote^SCGC^AB-629-I23	Contig		
+489138	GCA_000400975.1	Halarchaeum^acidiphilum^MH1-52-1	Contig		
+913333	GCA_000402075.1	Thaumarchaeota^archaeon^SCGC^AAA007-O23	Contig		
+1462419	GCA_000402355.1	Candidatus^Iainarchaeum^andersonii^SCGC^AAA011-E11	Contig		
+1104580	GCA_000402475.1	Nanoarchaeota^archaeon^SCGC^AAA011-L15	Contig		
+913322	GCA_000402775.1	Euryarchaeota^archaeon^SCGC^AAA252-I15	Contig		
+1052803	GCA_000402895.1	Crenarchaeota^archaeon^SCGC^AAA471-C03	Contig		
+1333523	GCA_000403645.1	Salinarchaeum^sp.^Harcht-Bsk1	Complete Genome		
+224719	GCA_000404165.1	Methanobrevibacter^sp.^AbM4	Complete Genome		
+1406512	GCA_000404225.1	Candidatus^Methanomassiliicoccus^intestinalis^Issoire-Mx1	Complete Genome		
+1130284	GCA_000404305.1	Candidatus^Aenigmarchaeota^archaeon^JGI^0000106-F11	Contig		
+743731	GCA_000404525.1	Diapherotrites^archaeon^SCGC^AAA011-N19	Contig		
+1104575	GCA_000404545.1	Diapherotrites^archaeon^SCGC^AAA011-K09	Contig		
+743729	GCA_000405225.1	Nanoarchaeota^archaeon^SCGC^AAA011-D5	Contig		
+1462428	GCA_000405245.1	Candidatus^Aenigmarchaeum^subterraneum^SCGC^AAA011-O16	Contig		
+1130285	GCA_000405685.1	Aigarchaeota^archaeon^JGI^0000106-J15	Contig		
+1104571	GCA_000405745.1	Thaumarchaeota^archaeon^SCGC^AB-179-E04	Contig		
+1325472	GCA_000415945.1	halophilic^archaeon^J07HX5	Scaffold		
+293091	GCA_000415965.1	Haloquadratum^walsbyi^J07HQW1	Scaffold		
+293091	GCA_000415985.1	Haloquadratum^walsbyi^J07HQW2	Scaffold		
+1238426	GCA_000416005.1	Haloquadratum^sp.^J07HQX50	Scaffold		
+1238428	GCA_000416045.1	Halorubrum^sp.^J07HR59	Scaffold		
+1070774	GCA_000416065.1	Halonotius^sp.^J07HN4	Scaffold		
+1085028	GCA_000416085.1	halophilic^archaeon^J07HX64	Scaffold		
+1085029	GCA_000416105.1	halophilic^archaeon^J07HB67	Scaffold		
+337243	GCA_000421805.1	Halorubrum^ezzemoulense^DSM^17463	Contig		
+376171	GCA_000427685.1	Haloplanus^natans^DSM^17983	Scaffold		
+913025	GCA_000430485.1	Thermococcus^sp.^PK	Scaffold		
+71518	GCA_000430905.1	Methanocorpusculum^bavaricum^DSM^4179	Scaffold		
+667135	GCA_000447225.1	Thermoplasmatales^archaeon^A-plasma	Contig		
+1071085	GCA_000447865.2	haloarchaeon^3A1-DGR	Scaffold		
+1293048	GCA_000455345.1	Halopiger^goleimassiliensis	Scaffold		
+1293047	GCA_000455365.1	Halopiger^djelfimassiliensis	Scaffold		
+1298898	GCA_000484915.1	Euryarchaeota^archaeon^SCGC^AAA286-E23	Contig		
+1298895	GCA_000484935.1	Euryarchaeota^archaeum^SCGC^AAA287-E17	Contig		
+1298894	GCA_000484955.1	Euryarchaeota^archaeum^SCGC^AAA287-N16	Contig		
+1298885	GCA_000484975.1	Thaumarchaeota^archaeon^SCGC^AAA282-K18	Contig		
+1379391	GCA_000494085.1	Nanoarchaeota^archaeon^JGI^OTU-2	Contig		
+1379389	GCA_000494125.1	Thaumarchaeota^archaeon^JGI^OTU-4	Contig		
+1379386	GCA_000494185.1	Thaumarchaeota^archaeon^JGI^OTU-3	Contig		
+1431545	GCA_000495475.1	Candidatus^Halobonum^tyrrellensis^G22	Contig		
+1410573	GCA_000495675.1	uncultured^Acidilobus^sp.^MG	Scaffold		
+667137	GCA_000496135.1	Thermoplasmatales^archaeon^E-plasma	Scaffold		
+261388	GCA_000496155.1	Ferroplasma^sp.^Type^II	Scaffold		
+1412871	GCA_000496175.1	uncultured^archaeon^A07HR67	Scaffold		
+1412872	GCA_000496195.1	uncultured^archaeon^A07HB70	Scaffold		
+1412873	GCA_000496215.1	uncultured^archaeon^A07HN63	Scaffold		
+1379702	GCA_000499765.1	Methanobacterium^sp.^MB1	Complete Genome		
+2221	GCA_000504205.1	Methanolobus^tindarius^DSM^2278	Contig		
+2285	GCA_000508305.1	Sulfolobus^acidocaldarius^SUSAZ	Complete Genome		
+39441	GCA_000513315.1	Methanobrevibacter^arboriphilus^ANOR1	Scaffold		
+1173487	GCA_000513435.1	Halorubrum^sp.^AJ67	Scaffold		
+582419	GCA_000517445.1	Thermococcus^paralvinellae	Complete Genome		
+353800	GCA_000517625.1	Halostagnicola^larsenii^XH-48	Complete Genome		
+66851	GCA_000529525.1	Methanobrevibacter^oralis^JMR01	Scaffold		
+1326980	GCA_000565255.1	Candidatus^Aramenus^sulfurataquae	Contig		
+195522	GCA_000585495.1	Thermococcus^nautili	Complete Genome		
+229980	GCA_000591035.1	Aeropyrum^camini^SY1^=^JCM^12091	Complete Genome		
+416273	GCA_000591055.1	Natronomonas^moolapensis^8.8.11	Complete Genome		
+190977	GCA_000621965.1	Methanobrevibacter^wolinii^SH	Scaffold		
+1160895	GCA_000632495.1	Candidatus^Acidianus^copahuensis	Contig		
+1392998	GCA_000685155.1	Candidatus^Methanoperedens^nitroreducens	Scaffold		
+1353246	GCA_000685395.1	Candidatus^Nitrosotenuis^chungbukensis	Contig		
+1416969	GCA_000690595.2	Haloterrigena^mahii	Scaffold		
+1495067	GCA_000691505.2	Halostagnicola^sp.^A56	Contig		
+1495314	GCA_000691865.1	Methanoculleus^sp.^MH98A	Contig		
+1034015	GCA_000698785.1	Nitrososphaera^viennensis^EN76	Complete Genome		
+453847	GCA_000710615.1	Haladaptatus^cibarius^D43	Contig		
+2205	GCA_000711215.1	Methanomicrobium^mobile^BP	Contig		
+660064	GCA_000711905.1	Methermicoccus^shengliensis^DSM^18856	Scaffold		
+1407055	GCA_000723185.1	Candidatus^Nitrosotenuis^uzonensis	Contig		
+1502292	GCA_000724145.1	Marine^Group^I^thaumarchaeote^SCGC^AAA799-E16	Scaffold		
+971279	GCA_000725425.1	Palaeococcus^pacificus^DY20341	Complete Genome		
+1508454	GCA_000730175.1	Haloferax^sp.^ATB1	Contig		
+1459637	GCA_000730285.1	Candidatus^Nitrososphaera^evergladensis^SR1	Complete Genome		
+222984	GCA_000731985.1	Natrinema^altunense	Contig		
+1301915	GCA_000739065.1	Methanocaldococcus^bathoardescens	Complete Genome		
+1380430	GCA_000739555.1	Halolamina^rubra	Contig		
+1448860	GCA_000739575.1	Halobellus^rufus	Contig		
+413816	GCA_000739595.1	Halorubrum^halophilum	Contig		
+1406378	GCA_000740075.1	Nanohaloarchaea^archaeon^AB578-D14	Contig		
+1495336	GCA_000744455.1	Methanobacterium^sp.^SMA-27	Contig		
+386456	GCA_000746075.1	Methanobacterium^arcticum	Scaffold		
+1498500	GCA_000746205.1	Halorubrum^sp.^BV1	Scaffold		
+1502290	GCA_000746695.1	Marine^Group^I^thaumarchaeote^SCGC^AAA799-D07	Contig		
+1502294	GCA_000746705.1	Marine^Group^I^thaumarchaeote^SCGC^AAA799-O18	Scaffold		
+1457250	GCA_000755225.1	Halapricum^salinum	Contig		
+1264579	GCA_000755245.1	Halococcus^sediminicola	Contig		
+2162	GCA_000762265.1	Methanobacterium^formicicum	Complete Genome		
+2226	GCA_000765475.1	Methanococcoides^methylutens	Contig		
+1505907	GCA_000769655.1	Thermococcus^eurythermalis	Complete Genome		
+1202768	GCA_000784335.1	Halopiger^salifodinae	Scaffold		
+230356	GCA_000784355.1	Methanolacinia^paynteri	Scaffold		
+565033	GCA_000789255.1	Geoglobus^acetivorans	Complete Genome		
+1577791	GCA_000800805.1	Candidatus^Methanoplasma^termitum	Complete Genome		
+1353260	GCA_000802205.2	Candidatus^Nitrosocosmicus^oleophilus	Complete Genome		
+1579368	GCA_000805915.1	archaeon^GW2011_AR6	Scaffold		
+1579374	GCA_000805925.1	archaeon^GW2011_AR16	Scaffold		
+1579369	GCA_000805935.1	archaeon^GW2011_AR9	Scaffold		
+1579372	GCA_000805965.1	archaeon^GW2011_AR13	Scaffold		
+1579375	GCA_000805995.1	archaeon^GW2011_AR17	Scaffold		
+1579377	GCA_000806015.1	archaeon^GW2011_AR19	Scaffold		
+1579379	GCA_000806035.1	archaeon^GW2011_AR21	Scaffold		
+1579364	GCA_000806055.1	archaeon^GW2011_AR1	Scaffold		
+1579365	GCA_000806075.1	archaeon^GW2011_AR3	Scaffold		
+1579366	GCA_000806095.1	archaeon^GW2011_AR4	Scaffold		
+1579367	GCA_000806115.1	archaeon^GW2011_AR5	Scaffold		
+1579371	GCA_000806135.1	archaeon^GW2011_AR11	Scaffold		
+1579376	GCA_000806155.1	archaeon^GW2011_AR18	Scaffold		
+1410606	GCA_000812185.1	Candidatus^Nitrosopelagicus^brevis	Complete Genome		
+1365176	GCA_000813245.1	Thermofilum^adornatus^1505	Complete Genome		
+110164	GCA_000816105.1	Thermococcus^guaymasensis^DSM^11113	Complete Genome		
+866790	GCA_000828575.1	Methanothermobacter^sp.^CaT2	Complete Genome		
+1579370	GCA_000830275.1	archaeon^GW2011_AR10	Complete Genome		
+1579373	GCA_000830295.1	archaeon^GW2011_AR15	Chromosome		
+1579378	GCA_000830315.1	archaeon^GW2011_AR20	Complete Genome		
+1582439	GCA_000875775.1	Nitrosopumilus^piranensis	Complete Genome		
+1293648	GCA_000949015.1	Acidiplasma^sp.^MBA-1	Contig		
+1603555	GCA_000955905.3	Candidatus^Nitrosotenuis^cloacae	Complete Genome		
+1580092	GCA_000956175.1	Nitrosopumilus^adriaticus	Complete Genome		
+1609231	GCA_000960865.1	Vulcanisaeta^sp.^AZ3	Contig		
+1609232	GCA_000960885.1	Thermoproteus^sp.^AZ2	Contig		
+115547	GCA_000965745.1	uncultured^archaeon	Chromosome		
+83868	GCA_000966265.1	Palaeococcus^ferrophilus^DSM^13482	Contig		
+2210	GCA_000969885.1	Methanosarcina^thermophila^TM-1	Complete Genome		
+1434099	GCA_000969945.1	Methanosarcina^sp.^Kolksee	Complete Genome		
+1434102	GCA_000970005.1	Methanosarcina^sp.^WH1	Complete Genome		
+1434100	GCA_000970045.1	Methanosarcina^sp.^MTP4	Complete Genome		
+38027	GCA_000970085.1	Methanosarcina^siciliae^T4/M	Complete Genome		
+170861	GCA_000970265.1	Methanosarcina^lacustris^Z-7289	Complete Genome		
+418008	GCA_000970285.1	Methanosarcina^horonobensis^HB-1^=^JCM^15518	Complete Genome		
+2208	GCA_000970305.1	Methanosarcina^barkeri^3	Complete Genome		
+2226	GCA_000970325.1	Methanococcoides^methylutens^MM1	Complete Genome		
+1483601	GCA_000979975.1	Methanosarcina^sp.^1.H.A.2.2	Scaffold		
+1538547	GCA_000986845.1	Lokiarchaeum^sp.^GC14_75	Contig		
+1550241	GCA_000993805.1	Thermofilum^uzonense	Complete Genome		
+113653	GCA_001006045.1	Geoglobus^ahangari	Complete Genome		
+1604004	GCA_001011115.1	Halanaeroarchaeum^sulfurireducens	Complete Genome		
+1550566	GCA_001017125.1	Methanoculleus^sediminis	Scaffold		
+1227555	GCA_001189275.1	Pyrobaculum^sp.^WP30	Complete Genome		
+35746	GCA_001190965.1	Haloferax^gibbonsii	Complete Genome		
+1419722	GCA_001261915.1	Halorubrum^sp.^SD626R	Scaffold		
+1685125	GCA_001273335.1	miscellaneous^Crenarchaeota^group-1^archaeon^SG8-32-3	Contig		
+1685124	GCA_001273345.1	miscellaneous^Crenarchaeota^group-1^archaeon^SG8-32-1	Contig		
+1685133	GCA_001273375.1	miscellaneous^Crenarchaeota^group^archaeon^SMTZ1-55	Scaffold		
+1685126	GCA_001273385.1	miscellaneous^Crenarchaeota^group-6^archaeon^AD8-1	Contig		
+1685127	GCA_001273415.1	miscellaneous^Crenarchaeota^group-15^archaeon^DG-45	Scaffold		
+1685135	GCA_001273495.1	miscellaneous^Crenarchaeota^group^archaeon^SMTZ-80	Contig		
+1705562	GCA_001280425.1	Haloarcula^rubripromontorii	Contig		
+1765655	GCA_001280455.1	Halorubrum^tropicale	Contig		
+1480675	GCA_001282785.1	Halolamina^sediminis	Contig		
+1715806	GCA_001304615.2	Methanosarcina^flavescens	Complete Genome		
+699431	GCA_001307315.1	Halolamina^pelagica	Contig		
+79601	GCA_001315825.1	Metallosphaera^hakonensis^JCM^8857^=^DSM^7519	Contig		
+2264	GCA_001315845.1	Thermococcus^celer^Vu^13^=^JCM^8558	Contig		
+53952	GCA_001315905.1	Thermococcus^peptonophilus^OG-1^=^JCM^9653	Contig		
+62609	GCA_001315925.1	Thermocladium^modestius^JCM^10088	Contig		
+2197	GCA_001315945.1	Methanogenium^cariaci^JCM^10550	Contig		
+118126	GCA_001315965.1	Methanoculleus^chikugoensis^JCM^10825	Contig		
+164451	GCA_001315985.1	Vulcanisaeta^distributa^JCM^11216	Contig		
+164451	GCA_001316005.1	Vulcanisaeta^distributa^JCM^11217	Contig		
+164452	GCA_001316025.1	Vulcanisaeta^souniana^JCM^11219	Contig		
+47303	GCA_001316045.1	Sulfuracidifex^metallicus^DSM^6482^=^JCM^9184	Contig		
+1294262	GCA_001316085.1	Sulfuracidifex^tepidarius	Contig		
+399579	GCA_001316105.1	Thermogymnomonas^acidicola^JCM^13583	Contig		
+164451	GCA_001316125.1	Vulcanisaeta^distributa^JCM^11213	Contig		
+253108	GCA_001316185.1	Natronolimnobius^baerhuensis^JCM^12253^=^CGMCC^1.3597	Contig		
+1295370	GCA_001316245.1	Vulcanisaeta^sp.^JCM^14467	Contig		
+1295371	GCA_001316265.1	Vulcanisaeta^sp.^JCM^16159	Contig		
+1295372	GCA_001316285.1	Vulcanisaeta^sp.^JCM^16161	Contig		
+39441	GCA_001316345.1	Methanobrevibacter^arboriphilus^JCM^13429^=^DSM^1125	Contig		
+1719120	GCA_001317315.1	Candidatus^Methanoperedens^sp.^BLZ1	Contig		
+1591054	GCA_001317345.1	Thermococcus^sp.^EP1	Contig		
+1527301	GCA_001321845.1	Nitrosopumilus^sp.^PRT-SC01	Contig		
+1700836	GCA_001399795.1	Candidatus^Bathyarchaeota^archaeon^BA2	Scaffold		
+1700835	GCA_001399805.1	Candidatus^Bathyarchaeota^archaeon^BA1	Scaffold		
+1735327	GCA_001412335.1	Methanolinea^sp.^SDB	Contig		
+1735326	GCA_001412355.1	Methanoculleus^sp.^SDB	Contig		
+1735328	GCA_001412415.1	Methanosaeta^sp.^SDB	Contig		
+1273541	GCA_001412615.1	Pyrodictium^delaneyi	Complete Genome		
+277988	GCA_001418715.1	Thermococcus^thioreducens	Contig		
+1713725	GCA_001421175.1	Methanomassiliicoccales^archaeon^RumEn^M2	Contig		
+1713724	GCA_001421185.1	Methanomassiliicoccales^archaeon^RumEn^M1	Contig		
+1655561	GCA_001437625.1	Nitrosopumilus^sp.^BACL13^MAG-121220-bin23	Contig		
+1640512	GCA_001443365.1	Thaumarchaeota^archaeon^CSP1-1	Scaffold		
+1678448	GCA_001462205.1	Haloparvum^sedimenti	Scaffold		
+2309	GCA_001462395.1	Pyrodictium^occultum	Contig		
+1544718	GCA_001469865.1	Haloferax^sp.^SB29	Contig		
+1544719	GCA_001469875.2	Haloferax^sp.^SB3	Scaffold		
+1514971	GCA_001469955.1	Haloprofundus^marisrubri	Contig		
+230361	GCA_001477655.1	Methanobrevibacter^millerae	Complete Genome		
+1769296	GCA_001481295.1	Candidatus^Methanomethylophilus^sp.^1R26	Contig		
+54259	GCA_001481685.1	Ignicoccus^islandicus^DSM^13165	Complete Genome		
+227598	GCA_001484195.1	Thermococcus^celericrescens	Contig		
+1674923	GCA_001484685.1	Thermococcus^sp.^2319x1	Complete Genome		
+1765057	GCA_001485535.1	Halobacterium^sp.^CBA1132	Contig		
+1765055	GCA_001485575.1	Haloarcula^sp.^CBA1127	Contig		
+1407499	GCA_001488575.1	Halobacterium^hubeiense	Complete Genome		
+1635284	GCA_001507955.1	Methanobacteriaceae^archaeon^41_258	Contig		
+2198	GCA_001508665.1	Methanoculleus^marisnigri	Scaffold		
+1641394	GCA_001508695.1	Methanomicrobiales^archaeon^53_19	Scaffold		
+1661711	GCA_001510225.1	Thaumarchaeota^archaeon^casp-thauma1	Contig		
+1661713	GCA_001510275.1	Thaumarchaeota^archaeon^casp-thauma3	Contig		
+1661714	GCA_001510295.1	Thaumarchaeota^archaeon^casp-thauma4	Contig		
+1671625	GCA_001512375.1	Candidatus^Methanoculleus^thermohydrogenotrophicum	Scaffold		
+1671626	GCA_001512385.1	Methanoculleus^sp.^DTU007	Scaffold		
+1675034	GCA_001512965.1	Methanomicrobia^archaeon^DTU008	Scaffold		
+1775754	GCA_001515185.1	Hadesarchaea^archaeon^DG-33	Scaffold		
+1775755	GCA_001515195.1	Hadesarchaea^archaeon^DG-33-1	Scaffold		
+1776334	GCA_001515205.2	Hadesarchaea^archaeon^YNP_45	Contig		
+1776333	GCA_001515215.1	Hadesarchaea^archaeon^YNP_N21	Contig		
+1714259	GCA_001515825.1	Pyrobaculum^sp.^OCT_11	Scaffold		
+1714260	GCA_001515835.1	Pyrobaculum^sp.^JCHS_4	Scaffold		
+1714261	GCA_001516585.1	Thermocladium^sp.^ECH_B	Contig		
+1714257	GCA_001516665.1	Thermoproteus^sp.^CIS_19	Scaffold		
+1714253	GCA_001516705.1	Vulcanisaeta^sp.^JCHS_4	Scaffold		
+1714256	GCA_001516725.1	Caldivirga^sp.^MG_3	Scaffold		
+1776294	GCA_001541925.1	Nitrosopumilus^sp.^Nsub	Contig		
+1758255	GCA_001542905.1	Halorubrum^aethiopicum	Contig		
+1671876	GCA_001543015.1	Nitrosopumilus^sp.^LS_AOA	Contig		
+1609968	GCA_001548675.1	Methanobrevibacter^sp.^YE315	Complete Genome		
+1698259	GCA_001548885.1	candidate^division^MSBL1^archaeon^SCGC-AAA259A05	Contig		
+1698261	GCA_001548915.1	candidate^division^MSBL1^archaeon^SCGC-AAA259D14	Contig		
+1698263	GCA_001548935.1	candidate^division^MSBL1^archaeon^SCGC-AAA259E17	Contig		
+1698265	GCA_001548955.1	candidate^division^MSBL1^archaeon^SCGC-AAA259E22	Contig		
+1698266	GCA_001548965.1	candidate^division^MSBL1^archaeon^SCGC-AAA259I07	Contig		
+1698267	GCA_001548995.1	candidate^division^MSBL1^archaeon^SCGC-AAA259I09	Contig		
+1698268	GCA_001549015.1	candidate^division^MSBL1^archaeon^SCGC-AAA259I14	Contig		
+1698260	GCA_001549035.1	candidate^division^MSBL1^archaeon^SCGC-AAA259B11	Contig		
+1698269	GCA_001549045.1	candidate^division^MSBL1^archaeon^SCGC-AAA259J03	Contig		
+1698262	GCA_001549075.1	candidate^division^MSBL1^archaeon^SCGC-AAA259D18	Contig		
+1698264	GCA_001549095.1	candidate^division^MSBL1^archaeon^SCGC-AAA259E19	Contig		
+1698270	GCA_001549115.1	candidate^division^MSBL1^archaeon^SCGC-AAA259M10	Contig		
+1698272	GCA_001549125.1	candidate^division^MSBL1^archaeon^SCGC-AAA261C02	Contig		
+1698271	GCA_001549135.1	candidate^division^MSBL1^archaeon^SCGC-AAA259O05	Contig		
+1698274	GCA_001549195.1	candidate^division^MSBL1^archaeon^SCGC-AAA261F17	Contig		
+1698275	GCA_001549215.1	candidate^division^MSBL1^archaeon^SCGC-AAA261F19	Contig		
+1698278	GCA_001549255.1	candidate^division^MSBL1^archaeon^SCGC-AAA382A03	Contig		
+1698280	GCA_001549275.1	candidate^division^MSBL1^archaeon^SCGC-AAA382A20	Contig		
+1698282	GCA_001549285.1	candidate^division^MSBL1^archaeon^SCGC-AAA382F02	Contig		
+1698283	GCA_001549315.1	candidate^division^MSBL1^archaeon^SCGC-AAA382K21	Contig		
+1698285	GCA_001549325.1	candidate^division^MSBL1^archaeon^SCGC-AAA382N08	Contig		
+1698288	GCA_001549355.1	candidate^division^MSBL1^archaeon^SCGC-AAA385M11	Contig		
+1698257	GCA_001549395.1	candidate^division^MSBL1^archaeon^SCGC-AAA833F18	Contig		
+1698279	GCA_001549435.1	candidate^division^MSBL1^archaeon^SCGC-AAA382A13	Contig		
+1698281	GCA_001549445.1	candidate^division^MSBL1^archaeon^SCGC-AAA382C18	Contig		
+1698284	GCA_001549475.1	candidate^division^MSBL1^archaeon^SCGC-AAA382M17	Contig		
+1698286	GCA_001549495.1	candidate^division^MSBL1^archaeon^SCGC-AAA385D11	Contig		
+1577684	GCA_001552015.1	Candidatus^Nanopusillus^acidilobi	Complete Genome		
+1495144	GCA_001560915.1	methanogenic^archaeon^ISO4-H5	Complete Genome		
+294671	GCA_001563245.1	Methanobrevibacter^olleyae	Complete Genome		
+1452364	GCA_001563305.1	methanogenic^archaeon^mixed^culture^ISO4-G1	Chromosome		
+1706445	GCA_001563325.1	Candidatus^Thorarchaeota^archaeon^SMTZ1-83	Contig		
+1706443	GCA_001563465.1	Candidatus^Thorarchaeota^archaeon^SMTZ-45	Contig		
+1732021	GCA_001563795.1	Haloferacaceae^archaeon^B1-Br10_E2g22	Contig		
+1729458	GCA_001563805.1	Natrialbaceae^archaeon^B1-Br10_E2g2	Contig		
+1729459	GCA_001563885.1	Natrialbaceae^archaeon^B1-Br10_E2g27	Contig		
+1729454	GCA_001563905.1	Nanohaloarchaea^archaeon^B1-Br10_U2g19	Contig		
+1729455	GCA_001563915.1	Nanohaloarchaea^archaeon^B1-Br10_U2g21	Contig		
+1727654	GCA_001563965.1	Haloferacaceae^archaeon^PL-Br10_E2g29	Contig		
+1727665	GCA_001563995.1	Nanohaloarchaea^archaeon^PL-Br10_U2g16	Contig		
+1727666	GCA_001564035.1	Nanohaloarchaea^archaeon^PL-Br10_U2g27	Contig		
+1729464	GCA_001564115.1	Natrialbaceae^archaeon^Tc-Br11_E2g8	Contig		
+1729450	GCA_001564135.1	Halobacteriaceae^archaeon^Tc-Br11_E2g27	Contig		
+1729456	GCA_001564145.1	Nanohaloarchaea^archaeon^B1-Br10_U2g29	Contig		
+1727664	GCA_001564195.1	Nanohaloarchaea^archaeon^PL-Br10_U2g19	Contig		
+1727663	GCA_001564205.1	Nanohaloarchaea^archaeon^PL-Br10_U2g5	Contig		
+1729461	GCA_001564255.1	Natrialbaceae^archaeon^Tc-Br11_E2g1	Contig		
+1729462	GCA_001564275.1	Natrialbaceae^archaeon^Tc-Br11_E2g14	Contig		
+1729463	GCA_001564285.1	Natrialbaceae^archaeon^Tc-Br11_E2g28	Contig		
+488124	GCA_001571385.1	Methanofollis^ethanolicus	Contig		
+1781242	GCA_001577155.1	Candidatus^Bathyarchaeota^archaeon^TCS64	Contig		
+1794907	GCA_001577555.1	Methanohalophilus^sp.^T328-1	Contig		
+1794908	GCA_001577565.1	Methanolobus^sp.^T82-4	Contig		
+1609559	GCA_001577775.1	Pyrococcus^kukulkanii	Complete Genome		
+1705564	GCA_001587575.1	Candidatus^Methanofastidiosum^methylthiophilus	Contig		
+1705564	GCA_001587595.1	Candidatus^Methanofastidiosum^methylthiophilus	Scaffold		
+1705564	GCA_001587675.1	Candidatus^Methanofastidiosum^methylthiophilus	Contig		
+1705564	GCA_001587715.1	Candidatus^Methanofastidiosum^methylthiophilus	Contig		
+1779372	GCA_001593845.1	Candidatus^Bathyarchaeota^archaeon^B63	Scaffold		
+1779369	GCA_001593855.1	Candidatus^Bathyarchaeota^archaeon^B25	Scaffold		
+1779368	GCA_001593865.1	Candidatus^Bathyarchaeota^archaeon^B24	Scaffold		
+1779367	GCA_001593875.1	Candidatus^Bathyarchaeota^archaeon^B23	Scaffold		
+1779370	GCA_001593925.1	Candidatus^Bathyarchaeota^archaeon^B26-1	Scaffold		
+1779371	GCA_001593935.1	Candidatus^Bathyarchaeota^archaeon^B26-2	Scaffold		
+1008153	GCA_001593955.1	Halalkalicoccus^paucihalophilus	Contig		
+1803821	GCA_001595785.1	Euryarchaeota^archaeon^SM23-78	Contig		
+1803813	GCA_001595795.1	Theionarchaea^archaeon^DG-70	Contig		
+1803816	GCA_001595805.1	Thermoplasmatales^archaeon^SG8-52-1	Contig		
+1803814	GCA_001595815.1	Theionarchaea^archaeon^DG-70-1	Contig		
+1803817	GCA_001595865.1	Thermoplasmatales^archaeon^SG8-52-2	Contig		
+1803819	GCA_001595875.1	Thermoplasmatales^archaeon^SG8-52-4	Contig		
+1803822	GCA_001595885.1	Euryarchaeota^archaeon^SG8-5	Scaffold		
+1803818	GCA_001595915.1	Thermoplasmatales^archaeon^SG8-52-3	Contig		
+1803815	GCA_001595945.1	Thermoplasmatales^archaeon^SM1-50	Contig		
+528314	GCA_001602375.1	Methanoculleus^horonobensis	Contig		
+1674798	GCA_001602645.1	Methanosarcinales^archaeon^Methan_01	Scaffold		
+1674800	GCA_001603205.1	Methanosarcinales^archaeon^Methan_03	Scaffold		
+1674804	GCA_001603255.1	Methanomicrobiales^archaeon^Methan_07	Scaffold		
+1679489	GCA_001625445.1	Haladaptatus^sp.^R4	Contig		
+1811582	GCA_001626095.1	Nitrosopelagicus^sp.^REDSEA-S08_B1	Scaffold		
+1811585	GCA_001627055.1	Nitrosopelagicus^sp.^REDSEA-S27_B13N2	Scaffold		
+1811587	GCA_001627165.1	Nitrosopelagicus^sp.^REDSEA-S32_B2	Scaffold		
+1811651	GCA_001628485.1	Marine^group^II^euryarchaeote^REDSEA-S11_B3N4	Scaffold		
+1811655	GCA_001629205.1	Marine^group^II^euryarchaeote^REDSEA-S30_B12	Scaffold		
+1811660	GCA_001629235.1	Marine^group^II^euryarchaeote^REDSEA-S43_B8	Scaffold		
+1811659	GCA_001629255.1	Marine^group^II^euryarchaeote^REDSEA-S42_B7	Scaffold		
+55758	GCA_001639265.1	Methanobrevibacter^filiformis	Contig		
+47311	GCA_001639285.1	Methanobrevibacter^cuticularis	Contig		
+49547	GCA_001639295.1	Methanobrevibacter^curvatus	Contig		
+1712654	GCA_001647085.1	Thermococcus^piezophilus	Complete Genome		
+1679446	GCA_001674955.1	Candidatus^Nitrosopumilus^sp.^DDS1	Scaffold		
+1882735	GCA_001714685.2	Methanosarcina^sp.^Ant1	Contig		
+1867258	GCA_001717005.1	Candidatus^Methanomethylicus^mesodigestum	Scaffold		
+1867261	GCA_001717015.1	Candidatus^Methanosuratus^petracarbonis	Scaffold		
+1867260	GCA_001717025.1	Candidatus^Methanomethylicus^oleusabulum	Scaffold		
+1891280	GCA_001719125.1	Sulfolobus^sp.^A20	Complete Genome		
+1849365	GCA_001723835.1	Candidatus^Altiarchaeales^archaeon^WOR_SM1_79	Scaffold		
+1849261	GCA_001723845.1	Candidatus^Altiarchaeales^archaeon^WOR_SM1_SCG	Scaffold		
+1561964	GCA_001729965.1	Methanosphaera^sp.^WGK6	Contig		
+1878999	GCA_001742785.1	Candidatus^Altiarchaeales^archaeon^IMC4	Scaffold		
+867917	GCA_001748385.1	Vulcanisaeta^thermophila	Contig		
+1737403	GCA_001761425.1	Nanohaloarchaea^archaeon^SG9	Complete Genome		
+1838285	GCA_001766815.1	Candidatus^Syntrophoarchaeum^caldarius	Scaffold		
+1839936	GCA_001766825.1	Candidatus^Syntrophoarchaeum^butanivorans	Scaffold		
+1873524	GCA_001767315.1	Halodesulfurarchaeum^formicicum	Complete Genome		
+1797286	GCA_001768965.1	archaeon^RBG_16_50_20	Scaffold		
+1797378	GCA_001774235.1	Candidatus^Bathyarchaeota^archaeon^RBG_13_46_16b	Scaffold		
+1797379	GCA_001774245.1	Candidatus^Bathyarchaeota^archaeon^RBG_13_52_12	Scaffold		
+1797377	GCA_001775955.1	Candidatus^Bathyarchaeota^archaeon^RBG_13_38_9	Scaffold		
+1797381	GCA_001775995.1	Candidatus^Bathyarchaeota^archaeon^RBG_16_48_13	Scaffold		
+1797382	GCA_001776015.1	Candidatus^Bathyarchaeota^archaeon^RBG_16_57_9	Scaffold		
+1801633	GCA_001784635.1	Candidatus^Micrarchaeota^archaeon^RBG_16_49_10	Scaffold		
+1801881	GCA_001786395.1	Candidatus^Pacearchaeota^archaeon^RBG_13_36_9	Scaffold		
+1801882	GCA_001786425.1	Candidatus^Pacearchaeota^archaeon^RBG_16_35_8	Scaffold		
+1801632	GCA_001786585.1	Candidatus^Micrarchaeota^archaeon^RBG_16_36_9	Scaffold		
+1801880	GCA_001787285.1	Candidatus^Pacearchaeota^archaeon^RBG_13_33_26	Scaffold		
+1802470	GCA_001791825.1	Candidatus^Woesearchaeota^archaeon^RBG_13_36_6	Scaffold		
+1797976	GCA_001800665.1	Euryarchaeota^archaeon^RBG_13_31_8	Scaffold		
+1797977	GCA_001800675.1	Euryarchaeota^archaeon^RBG_13_57_23	Scaffold		
+1797978	GCA_001800715.1	Euryarchaeota^archaeon^RBG_13_61_15	Scaffold		
+1797979	GCA_001800735.1	Euryarchaeota^archaeon^RBG_16_62_10	Scaffold		
+1797980	GCA_001800745.1	Euryarchaeota^archaeon^RBG_16_67_27	Scaffold		
+1797981	GCA_001800755.1	Euryarchaeota^archaeon^RBG_16_68_12	Scaffold		
+1797982	GCA_001800795.1	Euryarchaeota^archaeon^RBG_16_68_13	Scaffold		
+1797983	GCA_001800815.1	Euryarchaeota^archaeon^RBG_19FT_COMBO_56_21	Scaffold		
+1797984	GCA_001800825.1	Euryarchaeota^archaeon^RBG_19FT_COMBO_69_17	Scaffold		
+1802371	GCA_001830115.1	Thaumarchaeota^archaeon^RBG_16_49_8	Scaffold		
+667138	GCA_001856825.1	Thermoplasmatales^archaeon^I-plasma	Contig		
+261391	GCA_001856845.1	Thermoplasmatales^archaeon^Gpl	Contig		
+1869245	GCA_001861355.1	Natrialba^sp.^SSL1	Contig		
+1826872	GCA_001870125.1	Candidatus^Nitrosocosmicus^exaquare	Complete Genome		
+1805247	GCA_001871475.1	Candidatus^Micrarchaeota^archaeon^CG1_02_47_40	Scaffold		
+1805249	GCA_001871495.1	Candidatus^Micrarchaeota^archaeon^CG1_02_51_15	Scaffold		
+1805250	GCA_001871595.1	Candidatus^Micrarchaeota^archaeon^CG1_02_55_22	Scaffold		
+1805296	GCA_001872185.1	Candidatus^Pacearchaeota^archaeon^CG1_02_32_21	Scaffold		
+1805298	GCA_001872315.1	Candidatus^Pacearchaeota^archaeon^CG1_02_39_14	Scaffold		
+1805422	GCA_001872765.1	Candidatus^Woesearchaeota^archaeon^CG1_02_33_12	Scaffold		
+1805295	GCA_001872795.1	Candidatus^Pacearchaeota^archaeon^CG1_02_32_132	Scaffold		
+1888995	GCA_001875345.1	Marine^Group^III^euryarchaeote^CG-Epi1	Contig		
+1888998	GCA_001875365.1	Marine^Group^III^euryarchaeote^CG-Epi4	Contig		
+1889000	GCA_001875375.1	Marine^Group^III^euryarchaeote^CG-Epi6	Contig		
+1889001	GCA_001875425.1	Marine^Group^III^euryarchaeote^CG-Bathy1	Contig		
+1889002	GCA_001875445.1	Marine^Group^III^euryarchaeote^CG-Bathy2	Contig		
+1888999	GCA_001875455.1	Marine^Group^III^euryarchaeote^CG-Epi5	Contig		
+1888996	GCA_001875465.1	Marine^Group^III^euryarchaeote^CG-Epi2	Contig		
+39664	GCA_001888095.1	Methanohalophilus^portucalensis^FDF-1	Scaffold		
+2177	GCA_001889405.1	Methanohalophilus^halophilus	Complete Genome		
+662757	GCA_001889985.1	Candidatus^Micrarchaeum^acidiphilum^ARMAN-1	Scaffold		
+1918501	GCA_001896725.1	Methanococcoides^sp.^EBM-47	Contig		
+1927150	GCA_001914355.1	Thaumarchaeota^archaeon^BIN5	Contig		
+1903181	GCA_001914405.1	Candidatus^Methanohalarchaeum^thermophilum	Contig		
+1805019	GCA_001915075.1	archaeon^13_2_20CM_2_52_21	Scaffold		
+1805396	GCA_001917965.1	Thaumarchaeota^archaeon^13_1_40CM_4_48_7	Scaffold		
+1805017	GCA_001918315.1	archaeon^13_1_40CM_4_53_4	Scaffold		
+1805098	GCA_001918715.1	Crenarchaeota^archaeon^13_1_40CM_3_53_5	Scaffold		
+1805096	GCA_001918745.1	Crenarchaeota^archaeon^13_1_40CM_3_52_17	Scaffold		
+1805095	GCA_001918765.1	Crenarchaeota^archaeon^13_1_40CM_3_52_10	Scaffold		
+1805386	GCA_001918975.1	Thaumarchaeota^archaeon^13_1_40CM_2_39_13_2	Scaffold		
+1805387	GCA_001919295.1	Thaumarchaeota^archaeon^13_1_40CM_2_39_4	Scaffold		
+1805012	GCA_001919675.1	archaeon^13_1_20CM_52_20	Scaffold		
+1805139	GCA_001919915.1	Euryarchaeota^archaeon^13_1_20CM_4_64_14	Scaffold		
+1805382	GCA_001920405.1	Thaumarchaeota^archaeon^13_1_20CM_2_39_11	Scaffold		
+1805380	GCA_001920445.1	Thaumarchaeota^archaeon^13_1_20CM_2_38_5	Contig		
+1805093	GCA_001920635.1	Crenarchaeota^archaeon^13_1_20CM_2_51_8	Scaffold		
+1841598	GCA_001940645.1	Candidatus^Heimdallarchaeota^archaeon^LC_3	Contig		
+1849166	GCA_001940655.1	Candidatus^Lokiarchaeota^archaeon^CR_4	Scaffold		
+1841599	GCA_001940665.1	Candidatus^Odinarchaeota^archaeon^LCB_4	Contig		
+1837170	GCA_001940705.1	Candidatus^Thorarchaeota^archaeon^AB_25	Contig		
+1841597	GCA_001940725.1	Candidatus^Heimdallarchaeota^archaeon^LC_2	Contig		
+1841596	GCA_001940755.1	Candidatus^Heimdallarchaeota^archaeon^AB_125	Contig		
+1930022	GCA_001940805.1	Methanocorpusculaceae^archaeon^Phil4	Scaffold		
+301967	GCA_001953745.1	Haloterrigena^saccharevitans	Contig		
+588898	GCA_001971705.1	Haloterrigena^daqingensis	Complete Genome		
+1932360	GCA_001989615.1	Halorientalis^sp.^IM1011	Complete Genome		
+1935113	GCA_002009955.1	Candidatus^Bathyarchaeota^archaeon^JdFR-05	Contig		
+1935003	GCA_002009975.1	Thermococcus^sp.^JdFR-02	Contig		
+1935127	GCA_002010065.1	Candidatus^Hydrothermarchaeota^archaeon^JdFR-16	Contig		
+1935140	GCA_002010075.1	Methanomicrobia^archaeon^JdFR-19	Contig		
+1934988	GCA_002010155.1	Archaeoglobus^sp.^JdFR-31	Contig		
+1934990	GCA_002010205.1	Archaeoglobus^sp.^JdFR-33	Contig		
+1934994	GCA_002010215.1	Archaeoglobus^sp.^JdFR-37	Contig		
+1934998	GCA_002010285.1	Archaeoglobus^sp.^JdFR-41	Contig		
+1935016	GCA_002010305.1	Archaeoglobi^archaeon^JdFR-42	Contig		
+1935017	GCA_002010375.1	Aciduliprofundum^sp.^JdFR-44	Contig		
+1935117	GCA_002011005.1	Candidatus^Bathyarchaeota^archaeon^JdFR-09	Contig		
+1935119	GCA_002011035.1	Candidatus^Bathyarchaeota^archaeon^JdFR-11	Contig		
+1935132	GCA_002011055.1	Crenarchaeota^archaeon^JdFR-12	Contig		
+1935120	GCA_002011075.1	Candidatus^Geothermarchaeota^archaeon^JdFR-13	Contig		
+1935121	GCA_002011085.1	Candidatus^Geothermarchaeota^archaeon^JdFR-14	Contig		
+1935128	GCA_002011115.1	Candidatus^Hydrothermarchaeota^archaeon^JdFR-17	Contig		
+1935129	GCA_002011125.1	Candidatus^Hydrothermarchaeota^archaeon^JdFR-18	Contig		
+1935138	GCA_002011155.1	Euryarchaeota^archaeon^JdFR-20	Contig		
+1934981	GCA_002011215.1	Archaeoglobus^sp.^JdFR-24	Contig		
+1934986	GCA_002011255.1	Archaeoglobus^sp.^JdFR-29	Contig		
+1935152	GCA_002011355.1	Thermoplasmatales^archaeon^JdFR-43	Contig		
+1853690	GCA_002025255.1	Halolamina^sp.^CBA1230	Contig		
+1811728	GCA_002067005.1	Methanomassiliicoccales^archaeon^PtaB.Bin215	Contig		
+1811680	GCA_002067035.1	Methanoregula^sp.^PtaB.Bin085	Contig		
+1811727	GCA_002067045.1	Methanomassiliicoccales^archaeon^PtaB.Bin134	Contig		
+1811674	GCA_002067065.1	Methanobacterium^sp.^PtaB.Bin024	Contig		
+1811721	GCA_002067095.1	Methanoregulaceae^archaeon^PtaB.Bin056	Contig		
+1811720	GCA_002067115.1	Methanoregulaceae^archaeon^PtaB.Bin009	Contig		
+1811723	GCA_002067155.1	Methanoregulaceae^archaeon^PtaB.Bin152	Contig		
+1811678	GCA_002067265.1	Methanomethylovorans^sp.^PtaU1.Bin073	Contig		
+1811679	GCA_002067275.1	Methanomethylovorans^sp.^PtaU1.Bin093	Contig		
+1811677	GCA_002067315.1	Methanocella^sp.^PtaU1.Bin125	Contig		
+1811722	GCA_002067485.1	Methanoregulaceae^archaeon^PtaB.Bin108	Contig		
+1811676	GCA_002067565.1	Methanobacterium^sp.^PtaU1.Bin242	Contig		
+1811729	GCA_002067635.1	Methanomassiliicoccales^archaeon^PtaU1.Bin030	Contig		
+1811689	GCA_002067705.1	Methanosaeta^sp.^PtaU1.Bin112	Contig		
+1811684	GCA_002067755.1	Methanosaeta^sp.^PtaB.Bin018	Contig		
+1811730	GCA_002067865.1	Methanomassiliicoccales^archaeon^PtaU1.Bin124	Contig		
+1811682	GCA_002067895.1	Methanoregula^sp.^PtaU1.Bin051	Contig		
+1811687	GCA_002067935.1	Methanosaeta^sp.^PtaU1.Bin028	Contig		
+1933927	GCA_002083985.1	Candidatus^Altiarchaeales^archaeon^A3	Scaffold		
+282676	GCA_002116695.1	Acidianus^manzaensis	Complete Genome		
+1927129	GCA_002153915.1	Methanonatronarchaeum^thermophilum	Contig		
+745377	GCA_002156705.1	Natronolimnobius^aegyptiacus	Complete Genome		
+1898749	GCA_002156965.1	Candidatus^Nitrosomarinus^catalina	Complete Genome		
+1986694	GCA_002168385.1	Euryarchaeota^archaeon^TMED279	Contig		
+1986692	GCA_002168725.1	Euryarchaeota^archaeon^TMED252	Contig		
+1986686	GCA_002170075.2	Euryarchaeota^archaeon^TMED141	Contig		
+1986698	GCA_002170315.2	Euryarchaeota^archaeon^TMED99	Contig		
+1986689	GCA_002170775.2	Euryarchaeota^archaeon^TMED192	Contig		
+1986687	GCA_002170935.1	Euryarchaeota^archaeon^TMED164	Contig		
+1986683	GCA_002171315.2	Euryarchaeota^archaeon^TMED117	Contig		
+1986688	GCA_002172185.1	Euryarchaeota^archaeon^TMED173	Contig		
+1986685	GCA_002172355.2	Euryarchaeota^archaeon^TMED132	Contig		
+1986684	GCA_002172375.1	Euryarchaeota^archaeon^TMED129	Contig		
+1932700	GCA_002176885.1	archaeon^D22	Contig		
+2008440	GCA_002197185.1	Thermococcus^sp.^5-4	Complete Genome		
+1937004	GCA_002201915.1	Methanopyrus^sp.^KOL6	Chromosome		
+1961136	GCA_002204705.1	Thermoplasmatales^archaeon^B_DKE	Contig		
+387957	GCA_002208625.1	Methanobrevibacter^sp.^87.7	Contig		
+1920749	GCA_002214165.1	Candidatus^Mancarchaeum^acidiphilum	Complete Genome		
+71997	GCA_002214385.1	Thermococcus^gorgonarius	Complete Genome		
+54077	GCA_002214465.1	Thermococcus^barossii	Complete Genome		
+71998	GCA_002214485.1	Thermococcus^pacificus	Complete Genome		
+72803	GCA_002214505.1	Thermococcus^siculi	Complete Genome		
+122420	GCA_002214525.1	Thermococcus^sp.^P6	Complete Genome		
+49899	GCA_002214585.1	Thermococcus^profundus	Complete Genome		
+54262	GCA_002214605.1	Thermococcus^chitonophagus	Complete Genome		
+1874706	GCA_002243045.1	Methanolobus^psychrotolerans	Contig		
+1480728	GCA_002252755.1	Halorubrum^sp.^Hd13	Scaffold		
+1383851	GCA_002252985.1	Halorubrum^halodurans	Scaffold		
+2012524	GCA_002254385.1	Thermoplasmatales^archaeon^ex4484_6	Contig		
+2012516	GCA_002254395.1	Candidatus^Pacearchaeota^archaeon^ex4484_71	Contig		
+2012508	GCA_002254405.1	Candidatus^Altiarchaeales^archaeon^ex4484_96	Contig		
+2012504	GCA_002254415.1	Candidatus^Aenigmarchaeota^archaeon^ex4484_52	Contig		
+2012520	GCA_002254465.1	Desulfurococcales^archaeon^ex4484_42	Contig		
+2012522	GCA_002254485.1	Thermoplasmatales^archaeon^ex4484_30	Contig		
+2012514	GCA_002254495.1	Candidatus^Pacearchaeota^archaeon^ex4484_26	Contig		
+2012503	GCA_002254545.1	Candidatus^Aenigmarchaeota^archaeon^ex4484_224	Contig		
+2012506	GCA_002254565.1	Candidatus^Altiarchaeales^archaeon^ex4484_2	Scaffold		
+2012526	GCA_002254595.1	Thermofilum^sp.^ex4484_15	Contig		
+2012527	GCA_002254645.1	Thermofilum^sp.^ex4484_79	Contig		
+2012521	GCA_002254665.1	Desulfurococcales^archaeon^ex4484_58	Contig		
+2012505	GCA_002254685.1	Candidatus^Aenigmarchaeota^archaeon^ex4484_56	Contig		
+2012531	GCA_002254705.1	Candidatus^Woesearchaeota^archaeon^ex4484_78	Contig		
+2012518	GCA_002254745.1	Desulfurococcales^archaeon^ex4484_217_1	Contig		
+2012523	GCA_002254765.1	Thermoplasmatales^archaeon^ex4484_36	Contig		
+2011131	GCA_002254785.1	ANME-1^cluster^archaeon^ex4572_4	Scaffold		
+2012515	GCA_002254805.1	Candidatus^Pacearchaeota^archaeon^ex4484_31	Contig		
+1978124	GCA_002254825.2	Methanosarcinales^archaeon^ex4572_44	Scaffold		
+2012525	GCA_002254885.1	Thermoplasmatales^archaeon^ex4572_165	Scaffold		
+2012533	GCA_002254895.1	Thermoprotei^archaeon^ex4572_64	Scaffold		
+2012507	GCA_002254945.1	Candidatus^Altiarchaeales^archaeon^ex4484_43	Scaffold		
+2012512	GCA_002254965.1	Candidatus^Bathyarchaeota^archaeon^ex4484_231	Contig		
+2012511	GCA_002254975.1	Candidatus^Bathyarchaeota^archaeon^ex4484_218	Contig		
+2012519	GCA_002254985.1	Desulfurococcales^archaeon^ex4484_217_2	Contig		
+2012509	GCA_002255025.1	Candidatus^Bathyarchaeota^archaeon^ex4484_135	Contig		
+2012510	GCA_002255045.1	Candidatus^Bathyarchaeota^archaeon^ex4484_205	Scaffold		
+2012502	GCA_002255055.1	Candidatus^Aenigmarchaeota^archaeon^ex4484_14	Scaffold		
+2012517	GCA_002255065.1	Desulfurococcales^archaeon^ex4484_204	Contig		
+2012532	GCA_002255105.1	Thaumarchaeota^archaeon^ex4484_121	Contig		
+1978125	GCA_002255125.1	Euryarchaeota^archaeon^ex4484_162	Contig		
+1978126	GCA_002255165.1	Euryarchaeota^archaeon^ex4484_178	Contig		
+1917473	GCA_002256575.1	Methanosaeta^sp.^NSM2	Scaffold		
+2032630	GCA_002286985.1	Halorubrum^sp.^WN019	Contig		
+2161	GCA_002287175.1	Methanobacterium^bryantii	Contig		
+1077256	GCA_002287195.1	Methanosphaera^cuniculi	Contig		
+2026795	GCA_002317795.1	Thaumarchaeota^archaeon	Contig		
+2026739	GCA_002317815.1	Euryarchaeota^archaeon	Contig		
+1048396	GCA_002355635.1	Halopenitus^persicus	Complete Genome		
+29284	GCA_002355655.1	Halorubrum^trapanicum	Complete Genome		
+2012530	GCA_002412205.1	Candidatus^Geothermarchaeota^archaeon^ex4572_27	Scaffold		
+2007299	GCA_002457145.1	Marine^Group^II^euryarchaeote^MED-G38	Contig		
+2007296	GCA_002457155.1	Marine^Group^II^euryarchaeote^MED-G35	Contig		
+2007294	GCA_002457195.1	Marine^Group^II^euryarchaeote^MED-G33	Contig		
+2007297	GCA_002457595.1	Marine^Group^II^euryarchaeote^MED-G36	Contig		
+2007295	GCA_002457605.1	Marine^Group^II^euryarchaeote^MED-G34	Contig		
+2041147	GCA_002490245.1	Candidatus^Bathyarchaeota^archaeon^B24-2	Scaffold		
+373386	GCA_002494345.1	Natrinema^ejinorense	Contig		
+1915708	GCA_002494485.1	Nitrososphaerales^archaeon^UBA213	Scaffold		
+1917431	GCA_002494525.1	archaeon^UBA490	Scaffold		
+1915582	GCA_002494545.1	Methanosarcina^sp.^UBA363	Scaffold		
+1915760	GCA_002494565.1	Thaumarchaeota^archaeon^UBA57	Scaffold		
+1915567	GCA_002494625.1	Archaeoglobus^sp.^UBA234	Scaffold		
+1915864	GCA_002494645.1	Euryarchaeota^archaeon^UBA256	Scaffold		
+1915568	GCA_002494665.1	Archaeoglobus^sp.^UBA236	Scaffold		
+1915983	GCA_002494685.1	Euryarchaeota^archaeon^UBA90	Scaffold		
+1915761	GCA_002494765.1	Euryarchaeota^archaeon^UBA186	Scaffold		
+1915926	GCA_002494865.1	Euryarchaeota^archaeon^UBA548	Scaffold		
+1915467	GCA_002494885.1	Methanobacterium^sp.^UBA44	Scaffold		
+1915599	GCA_002494895.1	Nitrososphaera^sp.^UBA210	Contig		
+1915934	GCA_002494975.1	Euryarchaeota^archaeon^UBA556	Scaffold		
+1915884	GCA_002495045.1	Euryarchaeota^archaeon^UBA41	Scaffold		
+1915545	GCA_002495055.1	Methanoregula^sp.^UBA247	Scaffold		
+1915553	GCA_002495065.1	Methanoregula^sp.^UBA471	Scaffold		
+1915751	GCA_002495185.1	Thermoplasmata^archaeon^UBA184	Scaffold		
+1915756	GCA_002495205.1	Thaumarchaeota^archaeon^UBA183	Scaffold		
+1915693	GCA_002495225.1	Methanoregulaceae^archaeon^UBA288	Scaffold		
+1915766	GCA_002495235.1	Euryarchaeota^archaeon^UBA287	Scaffold		
+1915753	GCA_002495315.1	Thaumarchaeota^archaeon^UBA141	Scaffold		
+1915676	GCA_002495325.1	Methanomassiliicoccaceae^archaeon^UBA593	Scaffold		
+1915460	GCA_002495365.1	Methanobacterium^sp.^UBA405	Scaffold		
+1915820	GCA_002495395.1	Euryarchaeota^archaeon^UBA174	Scaffold		
+1915813	GCA_002495405.1	Euryarchaeota^archaeon^UBA15	Scaffold		
+1917433	GCA_002495465.1	archaeon^UBA55	Scaffold		
+1915989	GCA_002495485.1	Candidatus^Bathyarchaeota^archaeon^UBA185	Scaffold		
+1915981	GCA_002495525.1	Euryarchaeota^archaeon^UBA89	Scaffold		
+1915885	GCA_002495535.1	Euryarchaeota^archaeon^UBA433	Scaffold		
+1915927	GCA_002495645.1	Euryarchaeota^archaeon^UBA549	Scaffold		
+1915828	GCA_002495675.1	Euryarchaeota^archaeon^UBA182	Scaffold		
+1915920	GCA_002495735.1	Euryarchaeota^archaeon^UBA54	Scaffold		
+1915976	GCA_002495765.1	Euryarchaeota^archaeon^UBA84	Scaffold		
+1915463	GCA_002495805.1	Methanobacterium^sp.^UBA419	Scaffold		
+1915604	GCA_002495845.1	Sulfolobus^sp.^UBA167	Scaffold		
+1915626	GCA_002495885.1	Methanocellaceae^archaeon^UBA148	Scaffold		
+1915782	GCA_002495925.1	Euryarchaeota^archaeon^UBA101	Scaffold		
+1915833	GCA_002496005.1	Euryarchaeota^archaeon^UBA194	Scaffold		
+1916006	GCA_002496015.1	Candidatus^Pacearchaeota^archaeon^UBA73	Scaffold		
+1915616	GCA_002496045.1	Desulfurococcaceae^archaeon^UBA150	Scaffold		
+1915489	GCA_002496065.1	Methanobrevibacter^sp.^UBA586	Scaffold		
+1915977	GCA_002496175.1	Euryarchaeota^archaeon^UBA85	Scaffold		
+1915924	GCA_002496285.1	Euryarchaeota^archaeon^UBA546	Scaffold		
+1915537	GCA_002496345.1	Methanomassiliicoccus^sp.^UBA382	Scaffold		
+1915699	GCA_002496385.1	Methanomassiliicoccales^archaeon^UBA147	Scaffold		
+1915629	GCA_002496395.1	Methanocorpusculaceae^archaeon^UBA456	Scaffold		
+1915615	GCA_002496425.1	Acidilobaceae^archaeon^UBA162	Scaffold		
+1915607	GCA_002496475.1	Vulcanisaeta^sp.^UBA163	Scaffold		
+1915878	GCA_002496485.1	Euryarchaeota^archaeon^UBA36	Scaffold		
+1915974	GCA_002496635.1	Euryarchaeota^archaeon^UBA82	Scaffold		
+1915827	GCA_002496725.1	Euryarchaeota^archaeon^UBA181	Scaffold		
+1915446	GCA_002496805.1	Methanobacterium^sp.^UBA353	Scaffold		
+1915902	GCA_002496845.1	Euryarchaeota^archaeon^UBA495	Scaffold		
+1915784	GCA_002496885.1	Euryarchaeota^archaeon^UBA104	Scaffold		
+1915785	GCA_002496905.1	Euryarchaeota^archaeon^UBA105	Scaffold		
+1915851	GCA_002496925.1	Euryarchaeota^archaeon^UBA227	Scaffold		
+1915662	GCA_002496945.1	Methanomassiliicoccaceae^archaeon^UBA408	Scaffold		
+1915835	GCA_002496985.1	Euryarchaeota^archaeon^UBA196	Scaffold		
+1915669	GCA_002497075.1	Methanomassiliicoccaceae^archaeon^UBA472	Scaffold		
+1915972	GCA_002497145.1	Euryarchaeota^archaeon^UBA68	Scaffold		
+1915637	GCA_002497155.1	Methanomassiliicoccaceae^archaeon^UBA309	Scaffold		
+1915849	GCA_002497185.1	Euryarchaeota^archaeon^UBA225	Scaffold		
+1915646	GCA_002497195.1	Methanomassiliicoccaceae^archaeon^UBA354	Scaffold		
+1915887	GCA_002497245.1	Euryarchaeota^archaeon^UBA439	Scaffold		
+1915817	GCA_002497295.1	Euryarchaeota^archaeon^UBA171	Scaffold		
+1915939	GCA_002497315.1	Euryarchaeota^archaeon^UBA560	Scaffold		
+1915606	GCA_002497345.1	Thermoproteus^sp.^UBA157	Scaffold		
+1915548	GCA_002497485.1	Methanoregula^sp.^UBA278	Scaffold		
+1915968	GCA_002497545.1	Euryarchaeota^archaeon^UBA622	Scaffold		
+1915794	GCA_002497645.1	Euryarchaeota^archaeon^UBA12	Scaffold		
+1915773	GCA_002497685.1	Euryarchaeota^archaeon^UBA169	Scaffold		
+1915778	GCA_002497865.1	Euryarchaeota^archaeon^UBA65	Scaffold		
+1915841	GCA_002497885.1	Euryarchaeota^archaeon^UBA21	Scaffold		
+1915860	GCA_002497905.1	Euryarchaeota^archaeon^UBA251	Scaffold		
+1915692	GCA_002497965.1	Methanomicrobiaceae^archaeon^UBA436	Scaffold		
+1915882	GCA_002497985.1	Euryarchaeota^archaeon^UBA4	Scaffold		
+1915494	GCA_002498065.1	Methanoculleus^sp.^UBA208	Scaffold		
+1916026	GCA_002498125.1	Candidatus^Woesearchaeota^archaeon^UBA525	Scaffold		
+1915979	GCA_002498135.1	Euryarchaeota^archaeon^UBA87	Scaffold		
+1915947	GCA_002498205.1	Euryarchaeota^archaeon^UBA596	Scaffold		
+1915877	GCA_002498265.1	Euryarchaeota^archaeon^UBA35	Scaffold		
+1915538	GCA_002498285.1	Methanomassiliicoccus^sp.^UBA386	Scaffold		
+1915514	GCA_002498315.1	Methanofollis^sp.^UBA420	Scaffold		
+1915476	GCA_002498445.1	Methanobrevibacter^sp.^UBA212	Scaffold		
+1915954	GCA_002498455.1	Euryarchaeota^archaeon^UBA602	Scaffold		
+1915943	GCA_002498525.1	Euryarchaeota^archaeon^UBA58	Scaffold		
+1915846	GCA_002498535.1	Euryarchaeota^archaeon^UBA221	Scaffold		
+1915632	GCA_002498545.1	Methanomassiliicoccaceae^archaeon^UBA271	Scaffold		
+1915895	GCA_002498585.1	Euryarchaeota^archaeon^UBA465	Scaffold		
+1915660	GCA_002498605.1	Methanomassiliicoccaceae^archaeon^UBA404	Scaffold		
+1916013	GCA_002498685.1	Candidatus^Parvarchaeota^archaeon^UBA515	Scaffold		
+1915491	GCA_002498705.1	Methanocorpusculum^sp.^UBA362	Scaffold		
+1915522	GCA_002498825.1	Methanolinea^sp.^UBA437	Scaffold		
+1915819	GCA_002498925.1	Euryarchaeota^archaeon^UBA173	Scaffold		
+1915865	GCA_002498985.1	Euryarchaeota^archaeon^UBA257	Scaffold		
+1915755	GCA_002499005.1	Thaumarchaeota^archaeon^UBA164	Contig		
+1915855	GCA_002499015.1	Euryarchaeota^archaeon^UBA242	Scaffold		
+1915701	GCA_002499085.1	Methanomassiliicoccales^archaeon^UBA280	Scaffold		
+1916005	GCA_002499185.1	Candidatus^Pacearchaeota^archaeon^UBA284	Scaffold		
+1915816	GCA_002499345.1	Euryarchaeota^archaeon^UBA170	Scaffold		
+1915876	GCA_002499425.1	Euryarchaeota^archaeon^UBA34	Scaffold		
+1915513	GCA_002499455.1	Methanoculleus^sp.^UBA77	Scaffold		
+1915992	GCA_002499505.1	Candidatus^Diapherotrites^archaeon^UBA493	Scaffold		
+1915705	GCA_002499525.1	Nitrosopumilales^archaeon^UBA218	Scaffold		
+1915980	GCA_002499545.1	Euryarchaeota^archaeon^UBA88	Scaffold		
+1915901	GCA_002499555.1	Euryarchaeota^archaeon^UBA494	Scaffold		
+1915984	GCA_002499705.1	Euryarchaeota^archaeon^UBA91	Scaffold		
+1915495	GCA_002499755.1	Methanoculleus^sp.^UBA291	Scaffold		
+1915986	GCA_002499785.1	Euryarchaeota^archaeon^UBA99	Scaffold		
+1915520	GCA_002499905.1	Methanolinea^sp.^UBA277	Scaffold		
+1915871	GCA_002501605.1	Euryarchaeota^archaeon^UBA28	Scaffold		
+1915581	GCA_002501645.1	Methanosarcina^sp.^UBA361	Scaffold		
+1915497	GCA_002501655.1	Methanoculleus^sp.^UBA303	Scaffold		
+1915528	GCA_002501695.1	Methanolobus^sp.^UBA474	Scaffold		
+1915556	GCA_002501765.1	Methanosaeta^sp.^UBA204	Scaffold		
+1915812	GCA_002501815.1	Euryarchaeota^archaeon^UBA14	Scaffold		
+1915776	GCA_002501895.1	Euryarchaeota^archaeon^UBA491	Scaffold		
+1915684	GCA_002501935.1	Nitrososphaeraceae^archaeon^UBA273	Scaffold		
+1915521	GCA_002501965.1	Methanolinea^sp.^UBA286	Scaffold		
+1915875	GCA_002501975.1	Euryarchaeota^archaeon^UBA31	Scaffold		
+1915910	GCA_002502085.1	Euryarchaeota^archaeon^UBA502	Scaffold		
+1915965	GCA_002502095.1	Euryarchaeota^archaeon^UBA62	Scaffold		
+1917432	GCA_002502135.1	archaeon^UBA543	Scaffold		
+1915799	GCA_002502215.1	Euryarchaeota^archaeon^UBA124	Scaffold		
+1915543	GCA_002502245.1	Methanoregula^sp.^UBA154	Scaffold		
+1915940	GCA_002502295.1	Euryarchaeota^archaeon^UBA561	Scaffold		
+1915948	GCA_002502325.1	Euryarchaeota^archaeon^UBA597	Scaffold		
+1915786	GCA_002502365.1	Euryarchaeota^archaeon^UBA106	Scaffold		
+1915798	GCA_002502485.1	Euryarchaeota^archaeon^UBA123	Scaffold		
+1915842	GCA_002502555.1	Euryarchaeota^archaeon^UBA214	Scaffold		
+1915838	GCA_002502565.1	Euryarchaeota^archaeon^UBA20	Scaffold		
+1915866	GCA_002502605.1	Euryarchaeota^archaeon^UBA258	Scaffold		
+1915800	GCA_002502625.1	Euryarchaeota^archaeon^UBA125	Scaffold		
+1915763	GCA_002502685.1	Euryarchaeota^archaeon^UBA202	Scaffold		
+1915745	GCA_002502705.1	Thermoplasmatales^archaeon^UBA582	Scaffold		
+1915999	GCA_002502725.1	Candidatus^Micrarchaeota^archaeon^UBA581	Scaffold		
+1915554	GCA_002502735.1	Methanoregula^sp.^UBA64	Scaffold		
+1915689	GCA_002502815.1	Methanomicrobiaceae^archaeon^UBA2	Scaffold		
+1915425	GCA_002502855.1	Methanobacterium^sp.^UBA279	Scaffold		
+1915891	GCA_002503015.1	Euryarchaeota^archaeon^UBA461	Scaffold		
+1915881	GCA_002503045.1	Euryarchaeota^archaeon^UBA39	Scaffold		
+1915690	GCA_002503105.1	Methanomicrobiaceae^archaeon^UBA206	Scaffold		
+1915935	GCA_002503285.1	Euryarchaeota^archaeon^UBA557	Scaffold		
+1915888	GCA_002503295.1	Euryarchaeota^archaeon^UBA441	Scaffold		
+1916011	GCA_002503305.1	Candidatus^Parvarchaeota^archaeon^UBA449	Scaffold		
+1915942	GCA_002503385.1	Euryarchaeota^archaeon^UBA563	Scaffold		
+1915951	GCA_002503395.1	Euryarchaeota^archaeon^UBA60	Scaffold		
+1915608	GCA_002503545.1	Candidatus^Methanomethylophilus^sp.^UBA78	Scaffold		
+1915703	GCA_002503595.1	Methanosarcinales^archaeon^UBA203	Scaffold		
+1915847	GCA_002503665.1	Euryarchaeota^archaeon^UBA222	Scaffold		
+1915903	GCA_002503675.1	Euryarchaeota^archaeon^UBA496	Scaffold		
+1916023	GCA_002503705.1	Candidatus^Woesearchaeota^archaeon^UBA153	Scaffold		
+1915832	GCA_002503725.1	Euryarchaeota^archaeon^UBA193	Scaffold		
+1915694	GCA_002503825.1	Methanoregulaceae^archaeon^UBA467	Scaffold		
+1915765	GCA_002503845.1	Euryarchaeota^archaeon^UBA24	Scaffold		
+1915941	GCA_002503905.1	Euryarchaeota^archaeon^UBA562	Scaffold		
+1915752	GCA_002503985.1	Thermoplasmata^archaeon^UBA61	Contig		
+1915677	GCA_002504405.1	Methanomassiliicoccaceae^archaeon^UBA71	Scaffold		
+1915861	GCA_002504415.1	Euryarchaeota^archaeon^UBA252	Scaffold		
+1915886	GCA_002504435.1	Euryarchaeota^archaeon^UBA438	Scaffold		
+1915675	GCA_002504495.1	Methanomassiliicoccaceae^archaeon^UBA537	Scaffold		
+1915458	GCA_002504505.1	Methanobacterium^sp.^UBA391	Scaffold		
+1915635	GCA_002504645.1	Methanomassiliicoccaceae^archaeon^UBA306	Scaffold		
+1915748	GCA_002504665.1	Thermoplasmatales^archaeon^UBA613	Scaffold		
+1915944	GCA_002504675.1	Euryarchaeota^archaeon^UBA584	Scaffold		
+1915814	GCA_002504695.1	Euryarchaeota^archaeon^UBA16	Scaffold		
+1915624	GCA_002504725.1	Methanobacteriaceae^archaeon^UBA587	Scaffold		
+1915787	GCA_002504805.1	Euryarchaeota^archaeon^UBA107	Scaffold		
+1915859	GCA_002504845.1	Euryarchaeota^archaeon^UBA250	Scaffold		
+1915957	GCA_002504905.1	Euryarchaeota^archaeon^UBA605	Scaffold		
+1915956	GCA_002504935.1	Euryarchaeota^archaeon^UBA604	Scaffold		
+1915975	GCA_002505155.1	Euryarchaeota^archaeon^UBA83	Scaffold		
+1915969	GCA_002505325.1	Euryarchaeota^archaeon^UBA623	Scaffold		
+1915853	GCA_002505355.1	Euryarchaeota^archaeon^UBA229	Scaffold		
+1915863	GCA_002505405.1	Candidatus^Poseidonia^alphae	Scaffold		
+1915963	GCA_002505415.1	Euryarchaeota^archaeon^UBA618	Scaffold		
+1915834	GCA_002505445.1	Euryarchaeota^archaeon^UBA195	Scaffold		
+1915913	GCA_002505455.1	Euryarchaeota^archaeon^UBA52	Scaffold		
+1915593	GCA_002505485.1	Methanosarcina^sp.^UBA5	Scaffold		
+1915945	GCA_002505495.1	Euryarchaeota^archaeon^UBA59	Scaffold		
+1917428	GCA_002505525.1	archaeon^UBA431	Scaffold		
+1917434	GCA_002505645.1	archaeon^UBA460	Scaffold		
+1915909	GCA_002505685.1	Euryarchaeota^archaeon^UBA501	Scaffold		
+1915424	GCA_002505765.1	Methanobacterium^sp.^UBA176	Scaffold		
+1915564	GCA_002505805.1	Methanosaeta^sp.^UBA80	Scaffold		
+1916022	GCA_002505845.1	Candidatus^Woesearchaeota^archaeon^UBA142	Scaffold		
+1915850	GCA_002505935.1	Euryarchaeota^archaeon^UBA226	Scaffold		
+1916021	GCA_002505945.1	Candidatus^Woesearchaeota^archaeon^UBA119	Scaffold		
+1915809	GCA_002505985.1	Euryarchaeota^archaeon^UBA133	Scaffold		
+1915704	GCA_002506015.1	Methanosarcinales^archaeon^UBA261	Scaffold		
+1915792	GCA_002506025.1	Euryarchaeota^archaeon^UBA111	Scaffold		
+1915628	GCA_002506085.1	Methanocorpusculaceae^archaeon^UBA425	Scaffold		
+1916027	GCA_002506165.1	Candidatus^Woesearchaeota^archaeon^UBA544	Scaffold		
+1915630	GCA_002506175.1	Methanomassiliicoccaceae^archaeon^UBA113	Scaffold		
+1915856	GCA_002506185.1	Euryarchaeota^archaeon^UBA249	Scaffold		
+1915650	GCA_002506255.1	Methanomassiliicoccaceae^archaeon^UBA367	Scaffold		
+1915867	GCA_002506275.1	Euryarchaeota^archaeon^UBA259	Scaffold		
+1915555	GCA_002506335.1	Methanosaeta^sp.^UBA114	Scaffold		
+1917429	GCA_002506365.1	archaeon^UBA583	Scaffold		
+1915791	GCA_002506385.1	Euryarchaeota^archaeon^UBA110	Scaffold		
+1915844	GCA_002506405.1	Euryarchaeota^archaeon^UBA22	Scaffold		
+1915569	GCA_002506515.1	Caldivirga^sp.^UBA161	Scaffold		
+1915511	GCA_002506585.1	Methanoculleus^sp.^UBA430	Scaffold		
+1915614	GCA_002506595.1	Acidilobaceae^archaeon^UBA158	Scaffold		
+1915754	GCA_002506605.1	Thaumarchaeota^archaeon^UBA160	Scaffold		
+164451	GCA_002506645.1	Vulcanisaeta^distributa	Scaffold		
+1915597	GCA_002506665.1	Nitrosopumilus^sp.^UBA526	Scaffold		
+1915928	GCA_002506705.1	Euryarchaeota^archaeon^UBA550	Scaffold		
+1915923	GCA_002506725.1	Euryarchaeota^archaeon^UBA545	Scaffold		
+1915767	GCA_002506745.1	Euryarchaeota^archaeon^UBA33	Scaffold		
+1915892	GCA_002506755.1	Euryarchaeota^archaeon^UBA462	Scaffold		
+1915783	GCA_002506825.1	Euryarchaeota^archaeon^UBA103	Scaffold		
+1915883	GCA_002506875.1	Euryarchaeota^archaeon^UBA40	Scaffold		
+1915631	GCA_002506985.1	Methanomassiliicoccaceae^archaeon^UBA248	Scaffold		
+1915609	GCA_002507085.1	archaeon^UBA168	Scaffold		
+1915937	GCA_002507165.1	Euryarchaeota^archaeon^UBA559	Scaffold		
+1915936	GCA_002507175.1	Euryarchaeota^archaeon^UBA558	Scaffold		
+1915527	GCA_002507205.1	Methanolobus^sp.^UBA32	Scaffold		
+1915990	GCA_002507245.1	Candidatus^Bathyarchaeota^archaeon^UBA233	Scaffold		
+1915570	GCA_002507275.1	Geoglobus^sp.^UBA232	Scaffold		
+1915916	GCA_002507425.1	Euryarchaeota^archaeon^UBA53	Scaffold		
+1915757	GCA_002508305.1	Thaumarchaeota^archaeon^UBA201	Scaffold		
+1915605	GCA_002508315.1	Thermocladium^sp.^UBA166	Scaffold		
+1915682	GCA_002508425.1	Methanosarcinaceae^archaeon^UBA470	Scaffold		
+1915595	GCA_002508465.1	Methanosarcina^sp.^UBA7	Scaffold		
+1915547	GCA_002508495.1	Methanoregula^sp.^UBA276	Scaffold		
+1915541	GCA_002508545.1	Methanomassiliicoccus^sp.^UBA6	Scaffold		
+1915526	GCA_002508635.1	Methanolobus^sp.^UBA118	Scaffold		
+1915485	GCA_002508855.1	Methanobrevibacter^sp.^UBA403	Scaffold		
+1915475	GCA_002508965.1	Methanobrevibacter^sp.^UBA190	Scaffold		
+1915474	GCA_002508985.1	Methanobrevibacter^sp.^UBA189	Scaffold		
+1915473	GCA_002509015.1	Methanobrevibacter^sp.^UBA188	Scaffold		
+1915625	GCA_002509085.1	Methanobacteriaceae^archaeon^UBA588	Scaffold		
+1915620	GCA_002509125.1	Methanobacteriaceae^archaeon^UBA237	Scaffold		
+1915775	GCA_002509165.1	Euryarchaeota^archaeon^UBA488	Scaffold		
+1915769	GCA_002509225.1	Euryarchaeota^archaeon^UBA102	Scaffold		
+1915588	GCA_002509325.1	Methanosarcina^sp.^UBA402	Scaffold		
+1915696	GCA_002509385.1	Methanomicrobia^archaeon^UBA590	Scaffold		
+1915678	GCA_002509405.1	Methanomassiliicoccaceae^archaeon^UBA72	Scaffold		
+1915525	GCA_002509485.1	Methanolinea^sp.^UBA477	Scaffold		
+1915524	GCA_002509495.1	Methanolinea^sp.^UBA473	Scaffold		
+1915471	GCA_002509665.1	Methanobacterium^sp.^UBA8	Scaffold		
+1915622	GCA_002509745.1	Methanobacteriaceae^archaeon^UBA349	Scaffold		
+1608465	GCA_002572525.1	Natrinema^sp.^CBA1119	Contig		
+2026803	GCA_002685855.1	Candidatus^Woesearchaeota^archaeon	Contig		
+2026773	GCA_002686195.1	Candidatus^Pacearchaeota^archaeon	Contig		
+1906665	GCA_002686315.1	archaeon	Contig		
+2026764	GCA_002687775.1	Nanoarchaeota^archaeon	Contig		
+2024843	GCA_002690535.1	Nitrosopumilus^sp.	Contig		
+2026808	GCA_002724795.1	Candidatus^Nitrosopelagicus^sp.	Contig		
+2026714	GCA_002726865.1	Candidatus^Bathyarchaeota^archaeon	Contig		
+1383844	GCA_002727125.1	Halorubrum^persicum	Scaffold		
+2026747	GCA_002728275.1	Candidatus^Heimdallarchaeota^archaeon	Contig		
+2026886	GCA_002737445.1	Nitrosarchaeum^sp.	Contig		
+1974468	GCA_002762705.1	Candidatus^Woesearchaeota^archaeon^CG11_big_fil_rev_8_21_14_0_20_43_8	Scaffold		
+1974466	GCA_002762765.1	Candidatus^Woesearchaeota^archaeon^CG10_big_fil_rev_8_21_14_0_10_45_5	Scaffold		
+1974465	GCA_002762785.1	Candidatus^Woesearchaeota^archaeon^CG10_big_fil_rev_8_21_14_0_10_45_16	Scaffold		
+1974463	GCA_002762795.1	Candidatus^Woesearchaeota^archaeon^CG10_big_fil_rev_8_21_14_0_10_37_12	Scaffold		
+1974460	GCA_002762835.1	Candidatus^Woesearchaeota^archaeon^CG10_big_fil_rev_8_21_14_0_10_34_12	Scaffold		
+1974462	GCA_002762845.1	Candidatus^Woesearchaeota^archaeon^CG10_big_fil_rev_8_21_14_0_10_36_11	Scaffold		
+1974461	GCA_002762855.1	Candidatus^Woesearchaeota^archaeon^CG10_big_fil_rev_8_21_14_0_10_34_8	Scaffold		
+1974458	GCA_002762915.1	Candidatus^Woesearchaeota^archaeon^CG10_big_fil_rev_8_21_14_0_10_32_9	Scaffold		
+1974456	GCA_002762925.1	Candidatus^Woesearchaeota^archaeon^CG10_big_fil_rev_8_21_14_0_10_30_7	Scaffold		
+1974407	GCA_002762975.1	Candidatus^Diapherotrites^archaeon^CG11_big_fil_rev_8_21_14_0_20_37_9	Scaffold		
+1974464	GCA_002762985.1	Candidatus^Woesearchaeota^archaeon^CG10_big_fil_rev_8_21_14_0_10_44_13	Scaffold		
+1974457	GCA_002763025.1	Candidatus^Woesearchaeota^archaeon^CG10_big_fil_rev_8_21_14_0_10_32_24	Scaffold		
+1974445	GCA_002763035.1	Candidatus^Pacearchaeota^archaeon^CG10_big_fil_rev_8_21_14_0_10_35_13	Scaffold		
+1974444	GCA_002763075.1	Candidatus^Pacearchaeota^archaeon^CG10_big_fil_rev_8_21_14_0_10_34_76	Scaffold		
+1974441	GCA_002763085.1	Candidatus^Pacearchaeota^archaeon^CG10_big_fil_rev_8_21_14_0_10_32_14	Scaffold		
+1974437	GCA_002763155.1	Candidatus^Pacearchaeota^archaeon^CG10_big_fil_rev_8_21_14_0_10_30_48	Scaffold		
+1974438	GCA_002763165.1	Candidatus^Pacearchaeota^archaeon^CG10_big_fil_rev_8_21_14_0_10_31_24	Scaffold		
+1974406	GCA_002763225.1	Candidatus^Diapherotrites^archaeon^CG10_big_fil_rev_8_21_14_0_10_31_34	Scaffold		
+1974416	GCA_002763255.1	Candidatus^Micrarchaeota^archaeon^CG09_land_8_20_14_0_10_60_16	Scaffold		
+1975556	GCA_002763265.1	archaeon^CG10_big_fil_rev_8_21_14_0_10_43_11	Scaffold		
+1974455	GCA_002763335.1	Candidatus^Woesearchaeota^archaeon^CG08_land_8_20_14_0_20_47_9	Scaffold		
+1974414	GCA_002763345.1	Candidatus^Micrarchaeota^archaeon^CG08_land_8_20_14_0_20_59_11	Scaffold		
+1974419	GCA_002778425.1	Candidatus^Micrarchaeota^archaeon^CG10_big_fil_rev_8_21_14_0_10_59_7	Scaffold		
+1974417	GCA_002778455.1	Candidatus^Micrarchaeota^archaeon^CG10_big_fil_rev_8_21_14_0_10_45_29	Scaffold		
+1974405	GCA_002778895.1	Candidatus^Diapherotrites^archaeon^CG09_land_8_20_14_0_10_32_12	Scaffold		
+1974413	GCA_002778915.1	Candidatus^Micrarchaeota^archaeon^CG08_land_8_20_14_0_20_49_17	Scaffold		
+1975561	GCA_002779005.1	Hadesarchaea^archaeon^CG08_land_8_20_14_0_20_51_8	Scaffold		
+1974404	GCA_002779065.1	Candidatus^Diapherotrites^archaeon^CG08_land_8_20_14_0_20_34_12	Scaffold		
+1974403	GCA_002779075.1	Candidatus^Diapherotrites^archaeon^CG08_land_8_20_14_0_20_30_16	Scaffold		
+1974385	GCA_002779555.1	Candidatus^Bathyarchaeota^archaeon^CG07_land_8_20_14_0_80_47_9	Scaffold		
+1974435	GCA_002780285.1	Candidatus^Pacearchaeota^archaeon^CG06_land_8_20_14_3_00_35_12	Scaffold		
+2014257	GCA_002780595.1	Candidatus^Huberiarchaeum^crystalense	Scaffold		
+1975560	GCA_002781385.1	Euryarchaeota^archaeon^CG01_land_8_20_14_3_00_38_12	Scaffold		
+2022694	GCA_002781805.1	Nitrosopumilales^archaeon^CG15_BIG_FIL_POST_REV_8_21_14_020_37_12	Scaffold		
+1974383	GCA_002781865.1	Candidatus^Aenigmarchaeota^archaeon^CG15_BIG_FIL_POST_REV_8_21_14_020_37_27	Scaffold		
+1974384	GCA_002782745.1	Candidatus^Bathyarchaeota^archaeon^CG_4_8_14_3_um_filter_42_8	Scaffold		
+2022693	GCA_002783425.1	Nitrosopumilales^archaeon^CG15_BIG_FIL_POST_REV_8_21_14_020_33_23	Scaffold		
+2014239	GCA_002783845.1	Candidatus^Altiarchaeum^sp.^CG_4_8_14_3_um_filter_33_2054	Scaffold		
+1974451	GCA_002784405.1	Candidatus^Woesearchaeota^archaeon^CG_4_10_14_0_8_um_filter_47_5	Scaffold		
+1974418	GCA_002785565.1	Candidatus^Micrarchaeota^archaeon^CG10_big_fil_rev_8_21_14_0_10_54_18	Scaffold		
+1846278	GCA_002787055.1	Candidatus^Nitrosotenuis^aquarius	Complete Genome		
+1073996	GCA_002788215.1	Halohasta^litchfieldiae	Complete Genome		
+2022696	GCA_002788515.1	Nitrosopumilales^archaeon^CG_4_9_14_0_2_um_filter_34_16	Scaffold		
+1974429	GCA_002788575.1	Candidatus^Pacearchaeota^archaeon^CG_4_9_14_0_2_um_filter_30_8	Scaffold		
+1974431	GCA_002789435.1	Candidatus^Pacearchaeota^archaeon^CG_4_9_14_0_8_um_filter_35_24	Scaffold		
+1974433	GCA_002790895.1	Candidatus^Pacearchaeota^archaeon^CG_4_9_14_3_um_filter_31_7	Scaffold		
+1974450	GCA_002792075.1	Candidatus^Woesearchaeota^archaeon^CG_4_10_14_0_2_um_filter_57_5	Scaffold		
+1974449	GCA_002792115.1	Candidatus^Woesearchaeota^archaeon^CG_4_10_14_0_2_um_filter_33_13	Scaffold		
+1975557	GCA_002793475.1	archaeon^CG_4_10_14_0_2_um_filter_Archaea_38_6	Scaffold		
+1974443	GCA_002794175.1	Candidatus^Pacearchaeota^archaeon^CG10_big_fil_rev_8_21_14_0_10_34_12	Scaffold		
+1974442	GCA_002794195.1	Candidatus^Pacearchaeota^archaeon^CG10_big_fil_rev_8_21_14_0_10_32_42	Scaffold		
+1911685	GCA_002813675.1	Methanobacterium^sp.^MZ-A1	Complete Genome		
+1969372	GCA_002825515.1	Candidatus^Thorarchaeota^archaeon^MP11T_1	Contig		
+2052170	GCA_002835825.1	Methanoregula^sp.	Contig		
+2013852	GCA_002838935.1	Thermoplasmata^archaeon^HGW-Thermoplasmata-1	Scaffold		
+2013853	GCA_002838995.1	Thermoplasmata^archaeon^HGW-Thermoplasmata-2	Contig		
+2013824	GCA_002839545.1	Candidatus^Methanoperedenaceae^archaeon^HGW-Methanoperedenaceae-1	Scaffold		
+2013822	GCA_002839575.1	Methanomicrobiales^archaeon^HGW-Methanomicrobiales-6	Scaffold		
+2013821	GCA_002839585.1	Methanomicrobiales^archaeon^HGW-Methanomicrobiales-5	Scaffold		
+2013819	GCA_002839605.1	Methanomicrobiales^archaeon^HGW-Methanomicrobiales-3	Scaffold		
+2013820	GCA_002839625.1	Methanomicrobiales^archaeon^HGW-Methanomicrobiales-4	Scaffold		
+2013818	GCA_002839645.1	Methanomicrobiales^archaeon^HGW-Methanomicrobiales-2	Scaffold		
+2013817	GCA_002839675.1	Methanomicrobiales^archaeon^HGW-Methanomicrobiales-1	Scaffold		
+2013815	GCA_002839705.1	Methanobacteriales^archaeon^HGW-Methanobacteriales-1	Scaffold		
+2013674	GCA_002841095.1	Candidatus^Altiarchaeales^archaeon^HGW-Altiarchaeales-2	Scaffold		
+2013673	GCA_002841105.1	Candidatus^Altiarchaeales^archaeon^HGW-Altiarchaeales-1	Scaffold		
+2013767	GCA_002841675.1	Euryarchaeota^archaeon^HGW-Euryarchaeota-1	Scaffold		
+2013675	GCA_002842715.1	Candidatus^Altiarchaeales^archaeon^HGW-Altiarchaeales-3	Scaffold		
+1985678	GCA_002844195.1	Halegenticoccus^soli	Scaffold		
+1932004	GCA_002844335.1	Haloarcula^taiwanensis	Complete Genome		
+1980981	GCA_002855745.1	Thermofilum^sp.^NZ13	Contig		
+2060322	GCA_002877795.1	Caldisphaera^sp.	Contig		
+2060325	GCA_002878135.1	Aciduliprofundum^sp.	Contig		
+2056630	GCA_002878355.1	Candidatus^Korarchaeota^archaeon	Contig		
+2005741	GCA_002897655.1	archaeon^BMS3Abin17	Contig		
+2005738	GCA_002897955.1	archaeon^BMS3Bbin15	Contig		
+2035437	GCA_002898355.1	archaeon^HR01	Contig		
+2035438	GCA_002898395.1	archaeon^HR02	Contig		
+2035440	GCA_002898655.1	archaeon^HR04	Contig		
+2035442	GCA_002898815.1	archaeon^HR06	Contig		
+2060324	GCA_002899805.1	Fervidicoccus^sp.	Contig		
+1933279	GCA_002900535.1	Thermoplasmata^archaeon^M9B1D	Contig		
+1933281	GCA_002900545.1	Thermoplasmata^archaeon^M11B2D	Contig		
+755307	GCA_002906575.1	Salinigranum^rubrum	Complete Genome		
+2005740	GCA_002923215.1	archaeon^BMS3Abin16	Contig		
+1968520	GCA_002926195.1	ANME-2^cluster^archaeon^HR1	Scaffold		
+2055893	GCA_002952775.1	Halalkaliarchaeum^desulfuricum	Complete Genome		
+1919232	GCA_003009755.1	Thermoplasmatales^archaeon^SW_10_69_26	Scaffold		
+1919222	GCA_003009775.1	Nanohaloarchaea^archaeon^SW_7_46_7	Scaffold		
+1919221	GCA_003009795.1	Nanohaloarchaea^archaeon^SW_7_43_1	Contig		
+1919220	GCA_003009815.1	Nanohaloarchaea^archaeon^SW_4_43_9	Scaffold		
+1919219	GCA_003009825.1	Nanohaloarchaea^archaeon^SW_10_44_10	Scaffold		
+1978161	GCA_003019475.1	Candidatus^Marsarchaeota^G2^archaeon^ECH_B_3	Contig		
+1978156	GCA_003019595.1	Candidatus^Marsarchaeota^G1^archaeon^BE_D	Contig		
+1919182	GCA_003020925.1	Halobacteriales^archaeon^QS_6_64_34	Scaffold		
+1919183	GCA_003020945.1	Halobacteriales^archaeon^QS_6_71_20	Scaffold		
+1919175	GCA_003020965.1	Halobacteriales^archaeon^QS_4_69_225	Scaffold		
+1919178	GCA_003020985.1	Halobacteriales^archaeon^QS_4_70_19	Scaffold		
+1919171	GCA_003021005.1	Halobacteriales^archaeon^QS_1_69_70	Scaffold		
+1919177	GCA_003021045.1	Halobacteriales^archaeon^QS_4_69_34	Scaffold		
+1919169	GCA_003021085.1	Halobacteriales^archaeon^QS_1_68_20	Scaffold		
+1919168	GCA_003021105.1	Halobacteriales^archaeon^QS_1_68_17	Scaffold		
+1919166	GCA_003021145.1	Halobacteriales^archaeon^QH_9_66_26	Scaffold		
+1919158	GCA_003021175.1	Halobacteriales^archaeon^QH_7_66_36	Scaffold		
+1919155	GCA_003021205.1	Halobacteriales^archaeon^QH_6_66_25	Scaffold		
+1919154	GCA_003021235.1	Halobacteriales^archaeon^QH_6_64_20	Scaffold		
+1919151	GCA_003021285.1	Halobacteriales^archaeon^QH_2_65_14	Scaffold		
+1919149	GCA_003021305.1	Halobacteriales^archaeon^QH_10_67_22	Scaffold		
+1919150	GCA_003021325.1	Halobacteriales^archaeon^QH_10_70_21	Scaffold		
+1919148	GCA_003021335.1	Halobacteriales^archaeon^QH_10_67_13	Scaffold		
+1919146	GCA_003021365.1	Halobacteriales^archaeon^QH_1_68_42	Scaffold		
+1919176	GCA_003021655.1	Halobacteriales^archaeon^QS_4_69_31	Scaffold		
+1919173	GCA_003021685.1	Halobacteriales^archaeon^QS_4_62_28	Scaffold		
+1919172	GCA_003021705.1	Halobacteriales^archaeon^QS_3_64_16	Scaffold		
+1919162	GCA_003021725.1	Halobacteriales^archaeon^QH_8_64_26	Scaffold		
+1919161	GCA_003021745.1	Halobacteriales^archaeon^QH_7_69_31	Scaffold		
+1919164	GCA_003021755.1	Halobacteriales^archaeon^QH_8_67_36	Scaffold		
+1919157	GCA_003021785.1	Halobacteriales^archaeon^QH_7_65_31	Scaffold		
+1919156	GCA_003021795.1	Halobacteriales^archaeon^QH_6_68_27	Scaffold		
+1919181	GCA_003021975.1	Halobacteriales^archaeon^QS_5_70_17	Scaffold		
+1919180	GCA_003022005.1	Halobacteriales^archaeon^QS_5_70_15	Scaffold		
+1919167	GCA_003022025.1	Halobacteriales^archaeon^QS_1_67_19	Scaffold		
+1919163	GCA_003022045.1	Halobacteriales^archaeon^QH_8_67_27	Scaffold		
+1919147	GCA_003022085.1	Halobacteriales^archaeon^QH_10_65_19	Scaffold		
+1919203	GCA_003022725.1	Halobacteriales^archaeon^SW_7_65_23	Scaffold		
+1919210	GCA_003022745.1	Halobacteriales^archaeon^SW_9_67_25	Scaffold		
+1919204	GCA_003022785.1	Halobacteriales^archaeon^SW_7_68_16	Scaffold		
+1919205	GCA_003022805.1	Halobacteriales^archaeon^SW_7_71_33	Scaffold		
+1919199	GCA_003022815.1	Halobacteriales^archaeon^SW_5_68_122	Scaffold		
+1919192	GCA_003022905.1	Halobacteriales^archaeon^QS_9_68_42	Scaffold		
+1919186	GCA_003022925.1	Halobacteriales^archaeon^QS_8_65_32	Scaffold		
+1919188	GCA_003022945.1	Halobacteriales^archaeon^QS_8_69_73	Scaffold		
+1919190	GCA_003023185.1	Halobacteriales^archaeon^QS_9_67_17	Scaffold		
+1919187	GCA_003023195.1	Halobacteriales^archaeon^QS_8_69_26	Scaffold		
+1919208	GCA_003023405.1	Halobacteriales^archaeon^SW_8_68_21	Scaffold		
+1919197	GCA_003023455.1	Halobacteriales^archaeon^SW_12_69_24	Scaffold		
+1919201	GCA_003023465.1	Halobacteriales^archaeon^SW_6_65_15	Scaffold		
+1919195	GCA_003023485.1	Halobacteriales^archaeon^SW_10_68_16	Scaffold		
+1919184	GCA_003023525.1	Halobacteriales^archaeon^QS_7_68_65	Scaffold		
+1919193	GCA_003023535.1	Halobacteriales^archaeon^QS_9_70_65	Scaffold		
+1919191	GCA_003023565.1	Halobacteriales^archaeon^QS_9_68_17	Scaffold		
+1919185	GCA_003023575.1	Halobacteriales^archaeon^QS_7_69_60	Scaffold		
+1919179	GCA_003023785.1	Halobacteriales^archaeon^QS_5_68_33	Scaffold		
+2137776	GCA_003034855.1	archaeon^SCG-AAA382B04	Contig		
+1973259	GCA_003056265.1	Zestosphaera^tikiterensis	Contig		
+1980982	GCA_003056285.1	Aigarchaeota^archaeon^NZ13_MG1	Contig		
+1679096	GCA_003058365.1	Haloarculaceae^archaeon^HArcel1	Complete Genome		
+1987492	GCA_003086375.1	Sulfolobus^sp.^SCGC^AB-777_L09	Contig		
+1987490	GCA_003086385.1	Sulfolobus^sp.^SCGC^AB-777_G05	Contig		
+1987491	GCA_003086555.1	Sulfolobus^sp.^SCGC^AB-777_G06	Contig		
+2005260	GCA_003086575.1	Sulfolobales^archaeon^SCGC^AB-777_K09	Contig		
+2072416	GCA_003104905.1	Candidatus^Methanoperedenaceae^archaeon	Scaffold		
+190976	GCA_003111605.1	Methanobrevibacter^woesei	Contig		
+190975	GCA_003111625.1	Methanobrevibacter^thaueri	Contig		
+2027460	GCA_003116855.1	Desulfurococcaceae^archaeon^AG1	Scaffold		
+2164	GCA_003134315.1	Methanobacterium^sp.	Scaffold		
+2052168	GCA_003135935.1	Methanomassiliicoccaceae^archaeon	Scaffold		
+2012493	GCA_003144275.1	Candidatus^Heimdallarchaeota^archaeon^B3_Heim	Scaffold		
+90426	GCA_003157115.1	Methanothrix^sp.	Scaffold		
+2213	GCA_003157235.1	Methanosarcina^sp.	Scaffold		
+2184052	GCA_003160755.1	Methanomicrobiales^archaeon	Scaffold		
+1277351	GCA_003173335.1	Methanospirillum^stamsii	Contig		
+668570	GCA_003173355.1	Methanospirillum^lacunae	Contig		
+718286	GCA_003175215.1	Candidatus^Nitrosopumilus^sp.^NM25	Contig		
+2056317	GCA_003194445.1	ANME-2^cluster^archaeon	Scaffold		
+312539	GCA_003201765.1	Acidianus^sulfidivorans^JP7	Complete Genome		
+41673	GCA_003201835.1	Acidianus^brierleyi	Complete Genome		
+2077140	GCA_003202545.1	Candidatus^Parvarchaeota^archaeon	Contig		
+2094122	GCA_003205235.1	Thermoplasma^sp.^Kam2015	Contig		
+2218585	GCA_003226235.1	Halogeometricum^sp.^wsp3	Contig		
+2202732	GCA_003229255.1	Nitrosopumilaceae^archaeon	Contig		
+1906667	GCA_003246535.1	Methanomassiliicoccales^archaeon	Contig		
+1170320	GCA_003248015.1	Candidatus^Nitrosopumilus^salaria	Contig		
+2214	GCA_003249335.1	Methanosarcina^acetivorans	Contig		
+83984	GCA_003250025.1	Methanocorpusculum^labreanum	Contig		
+2203	GCA_003251955.1	Methanospirillum^hungatei	Contig		
+680118	GCA_003264935.1	Methanothermobacter^tenebrarum	Contig		
+1945578	GCA_003266065.1	Methanosphaera^sp.^rholeuAM130	Scaffold		
+1945579	GCA_003266075.1	Methanosphaera^sp.^rholeuAM74	Scaffold		
+1945580	GCA_003266105.1	Methanosphaera^sp.^rholeuAM6	Scaffold		
+1945631	GCA_003266145.1	Methanosphaera^sp.^SHI613	Scaffold		
+1945577	GCA_003266165.1	Methanosphaera^sp.^rholeuAM270	Scaffold		
+1945632	GCA_003266175.1	Methanosphaera^sp.^SHI1033	Scaffold		
+1789762	GCA_003268005.1	Methanosphaera^sp.^BMS	Complete Genome		
+1465461	GCA_003269155.1	Thaumarchaeota^archaeon^SCGC^AC-337_F14	Scaffold		
+2161923	GCA_003279245.1	marine^archaeum^AG-341-O08	Contig		
+2161922	GCA_003282115.1	marine^archaeum^AG-339-F18	Contig		
+2249761	GCA_003287355.1	Halorubrum^sp.^48-1-W	Contig		
+29295	GCA_003298465.1	halophilic^archaeon	Contig		
+2006182	GCA_003315655.1	Methanobrevibacter^sp.^NOE	Contig		
+2006183	GCA_003315675.1	Methanocorpusculum^sp.^MCE	Contig		
+1126245	GCA_003336245.1	Haloplanus^salinus	Contig		
+1547899	GCA_003342695.1	Haloplanus^sp.^CBA1113	Complete Genome		
+2282654	GCA_003344565.1	Saliphagus^sp.^LR7	Contig		
+1868214	GCA_003344655.1	Candidatus^Korarchaeota^archaeon^NZ13-K	Contig		
+2053491	GCA_003345545.1	Candidatus^Thorarchaeota^archaeon	Scaffold		
+1236180	GCA_003351065.1	Halopelagius^longus	Scaffold		
+2607662	GCA_003351865.1	Methanofervidicoccus^sp.^A16	Complete Genome		
+2056631	GCA_003352245.1	Crenarchaeota^archaeon	Contig		
+660515	GCA_003369835.1	Halorussus^rarus	Contig		
+1710536	GCA_003382685.1	Halorussus^sp.^HD8-51	Scaffold		
+2044521	GCA_003430825.1	Natronolimnobius^sulfurireducens	Complete Genome		
+1577685	GCA_003431325.1	Acidilobus^sp.^7A	Complete Genome		
+2283527	GCA_003439925.1	Haloprofundus^halophilus	Contig		
+2025350	GCA_003491285.1	Methanobacterium^sp.^BRmetb2	Complete Genome		
+2025351	GCA_003491305.1	Methanobacterium^sp.^BAmetb5	Complete Genome		
+2093792	GCA_003550625.1	Candidatus^Aenigmarchaeota^archaeon	Contig		
+1954478	GCA_003551265.1	Halovenus^sp.	Contig		
+1879286	GCA_003551525.1	Halorubrum^sp.	Contig		
+2093797	GCA_003551725.1	Halorubraceae^archaeon	Contig		
+2099673	GCA_003554305.1	Candidatus^Nanohaloarchaeota^archaeon	Contig		
+2099682	GCA_003555005.1	Methanonatronarchaeia^archaeon	Contig		
+2099668	GCA_003555245.1	candidate^division^MSBL1^archaeon	Contig		
+2099680	GCA_003558085.1	Methanobacteriaceae^archaeon	Contig		
+2099674	GCA_003558335.1	Candidatus^Methanofastidiosa^archaeon	Contig		
+1940235	GCA_003568775.1	Candidatus^Nanoclepta^minutus	Contig		
+1898379	GCA_003584625.1	Methanothermobacter^sp.^MT-2	Complete Genome		
+2321230	GCA_003602035.1	Halococcus^sp.^IIIV-5B	Contig		
+2216978	GCA_003605575.1	Halonotius^sp.^F13-13	Scaffold		
+268735	GCA_003605635.1	Halonotius^pteroides	Contig		
+148449	GCA_003610195.1	Halopiger^aswanensis	Scaffold		
+2250257	GCA_003649085.1	Candidatus^Verstraetearchaeota^archaeon	Contig		
+2250277	GCA_003649205.1	Thermoprotei^archaeon	Contig		
+2250274	GCA_003660965.1	Candidatus^Micrarchaeota^archaeon	Contig		
+2250255	GCA_003661005.1	Methanosarcinales^archaeon	Contig		
+2250275	GCA_003661405.1	Candidatus^Hydrothermarchaeota^archaeon	Contig		
+2250276	GCA_003661465.1	Hadesarchaea^archaeon	Contig		
+2250273	GCA_003661485.1	Candidatus^Geothermarchaeota^archaeon	Contig		
+2053489	GCA_003662865.1	Candidatus^Lokiarchaeota^archaeon	Contig		
+2250258	GCA_003662925.1	Archaeoglobales^archaeon	Contig		
+2250256	GCA_003663045.1	Candidatus^Altiarchaeales^archaeon	Contig		
+2282131	GCA_003665925.1	Halobellus^sp.^Atlit-38R	Contig		
+2282130	GCA_003665935.1	Halobellus^sp.^Atlit-31R	Contig		
+2282128	GCA_003666015.1	Halorubrum^sp.^Atlit-26R	Contig		
+1702106	GCA_003670115.1	Halobacteriaceae^archaeon^SHR37	Contig		
+1547897	GCA_003675855.1	Halostella^salina	Contig		
+2448456	GCA_003675875.1	Halostella^sp.^LT12	Scaffold		
+660522	GCA_003688715.1	Haloplanus^aerogenes	Scaffold		
+2675002	GCA_003697815.1	Halalkalicoccus^subterraneus	Scaffold		
+2592614	GCA_003697845.1	Halobellus^sp.^ZY21	Scaffold		
+2478979	GCA_003702465.1	Candidatus^Nitrosomarinus^sp.	Scaffold		
+1853682	GCA_003721175.1	Halarchaeum^sp.^CBA1220	Contig		
+1853699	GCA_003721435.1	Halorubrum^sp.^CBA1229	Contig		
+2485783	GCA_003722075.1	Methanohalophilus^sp.^RSK	Contig		
+2487041	GCA_003722095.1	Natronomonas^sp.^CBA1133	Contig		
+2478559	GCA_003724175.1	Thaumarchaeota^archaeon^S15	Scaffold		
+2478556	GCA_003724285.1	Nitrosopumilus^sp.^H13	Contig		
+2478554	GCA_003724325.1	Nitrosopumilus^sp.^D6	Contig		
+1710538	GCA_003730195.1	Halosimplex^sp.^YPL4	Contig		
+2485838	GCA_003781945.1	Halorubrum^sp.^CSM-61	Contig		
+190974	GCA_003814835.1	Methanobrevibacter^gottschalkii^DSM^11977	Scaffold		
+2485498	GCA_003819845.1	Methanoregulaceae^archaeon	Contig		
+2293855	GCA_003838065.1	Methanocalculus^sp.^MSAO_Arc2	Contig		
+2293854	GCA_003838185.1	Methanocalculus^sp.^MSAO_Arc1	Contig		
+768733	GCA_003838235.1	Methanosalsum^natronophilum	Contig		
+1679083	GCA_003841465.1	Natrarchaeobius^chitinivorans	Contig		
+1679091	GCA_003841485.1	Natrarchaeobius^halalkaliphilus	Contig		
+1679083	GCA_003841505.1	Natrarchaeobius^chitinivorans	Contig		
+671145	GCA_003862495.1	Halomarina^oriensis	Contig		
+2478471	GCA_003947435.1	Candidatus^Methanodesulfokores^washburnensis	Scaffold		
+1670455	GCA_003967175.1	Sulfodiicoccus^acidiphilus	Complete Genome		
+2675099	GCA_003977755.1	Haloterrigena^salifodinae	Scaffold		
+1970083	GCA_003978665.1	Hyperthermus^sp.	Contig		
+1872626	GCA_003978865.1	Archaeoglobus^sp.	Contig		
+634157	GCA_003990725.1	Halorubrum^sp.^PV6	Complete Genome		
+2500550	GCA_004015825.1	Halobacteriaceae^bacterium^SHR40	Scaffold		
+2593994	GCA_004028775.1	Candidatus^Methanosuratus^subterraneum	Contig		
+2505977	GCA_004087835.1	Halorussus^sp.^RC-68	Complete Genome		
+2507075	GCA_004099695.1	Methanosarcina^sp.^MSH10X1	Contig		
+1550565	GCA_004102725.1	Methanoculleus^taiwanensis	Scaffold		
+2497325	GCA_004114375.1	Halorubrum^sp.^BOL3-1	Complete Genome		
+2508724	GCA_004114995.1	Halorubrum^amylolyticum	Scaffold		
+2071624	GCA_004116405.1	Haloferacaceae^archaeon^SYSU^A00711	Contig		
+2479928	GCA_004118325.1	Halorientalis^sp.^F13-25	Scaffold		
+2138083	GCA_004137855.1	Methanohalophilus^sp.^SLHTYRO	Scaffold		
+1126242	GCA_004143485.1	Halorussus^amylolyticus	Scaffold		
+2608793	GCA_004193545.1	Candidatus^Argoarchaeum^ethanivorans	Contig		
+2077317	GCA_004195645.1	uncultured^DHVE6^group^euryarchaeote	Contig		
+2491083	GCA_004212075.1	Candidatus^Methanoliparum^thermophilum	Contig		
+2491085	GCA_004212085.1	Candidatus^Methanolliviera^hydrocarbonicum	Contig		
+2491082	GCA_004212135.1	Methanophagales^archaeon^ANME-1-THS	Scaffold		
+2478562	GCA_004285905.1	Nanoarchaeota^archaeon^Gua-46	Contig		
+2052832	GCA_004297185.1	Methanofollis^sp.^FWC-SCC2	Contig		
+2082189	GCA_004310395.1	Methanofervidicoccus^abyssi	Contig		
+2507556	GCA_004322465.1	Candidatus^Nitrosotenuis^sp.	Contig		
+2576309	GCA_004332335.1	Methanoregulaceae^archaeon^UXB-2016	Contig		
+2546571	GCA_004347965.1	Candidatus^Nezhaarchaeota^archaeon^WYZ-LMO8	Contig		
+91560	GCA_004363215.1	Methanimicrococcus^blatticola	Scaffold		
+2528041	GCA_004525545.1	Methanomassiliicoccus^sp.	Contig		
+83816	GCA_004553595.1	Methanobrevibacter^ruminantium	Contig		
+2562280	GCA_004681185.1	Halomicroarcula^sp.^LR21	Scaffold		
+2559572	GCA_004698125.1	Halosimplex^sp.^TH32	Scaffold		
+2052935	GCA_004745425.1	Methanolobus^sp.^SY-01	Contig		
+1126238	GCA_004765785.1	Halorussus^ruber	Scaffold		
+2505976	GCA_004765795.1	Halorussus^sp.^LYG-36	Scaffold		
+1710537	GCA_004765805.1	Halorussus^sp.^HD8-83	Scaffold		
+1364935	GCA_004765815.1	Halorussus^salinus	Scaffold		
+2528831	GCA_004785955.1	Halostella^litorea	Scaffold		
+2559573	GCA_004944975.1	Halorhabdus^sp.^H27	Scaffold		
+2558243	GCA_005049285.1	halophilic^archaeon^NEN8	Contig		
+2218536	GCA_005191415.1	Candidatus^Helarchaeota^ASGARD^archaeon^Hel_GB_A	Scaffold		
+2218537	GCA_005191425.1	Candidatus^Helarchaeota^ASGARD^archaeon^Hel_GB_B	Contig		
+2012492	GCA_005222965.1	Candidatus^Woesearchaeota^archaeon^B3_Woes	Contig		
+2012490	GCA_005222975.1	Candidatus^Lokiarchaeota^archaeon^Loki_b31	Contig		
+2012484	GCA_005222995.1	Hadesarchaea^archaeon^B3_Hades	Contig		
+2012491	GCA_005223125.1	Candidatus^Lokiarchaeota^archaeon^Loki_b32	Scaffold		
+2217661	GCA_005239135.1	Natronomonas^sp.^F20-122	Contig		
+2575697	GCA_005239175.1	halophilic^archaeon^SHRA6	Scaffold		
+2558242	GCA_005239435.1	halophilic^archaeon^LT46	Scaffold		
+2509225	GCA_005406125.1	Haloarcula^sp.^MD-130	Contig		
+2518118	GCA_005435045.1	Halorubrum^sp.^SS5	Scaffold		
+2518112	GCA_005435165.1	Halorubrum^sp.^GN11_10-6_MGM	Contig		
+2563889	GCA_005543295.1	Haloferacaceae^archaeon^N1521	Scaffold		
+88724	GCA_005576615.1	Natrinema^versiforme	Complete Genome		
+2552943	GCA_005938085.1	Haloterrigena^sp.^H1	Contig		
+2583824	GCA_005954745.1	Halostella^pelagica	Complete Genome		
+2586643	GCA_006274605.1	Thermococcus^sp.^IOH1	Complete Genome		
+2419781	GCA_006543045.1	Natronolimnobius^sp.^XQ-INN^246	Scaffold		
+2508726	GCA_006740685.1	Candidatus^Nitrosopumilus^sp.^SW	Complete Genome		
+2511997	GCA_006861655.1	Halonotius^roseus	Scaffold		
+2487750	GCA_006861665.1	Halonotius^terrestris	Scaffold		
+2137971	GCA_006864335.1	Haloferax^sp.^wsp5	Contig		
+1820005	GCA_006954405.1	Methanomassiliicoccales^archaeon^Mx-02	Contig		
+1820006	GCA_006954425.1	Methanomassiliicoccales^archaeon^Mx-03	Scaffold		
+1820007	GCA_006954465.1	Methanomassiliicoccales^archaeon^Mx-06	Scaffold		
+2565931	GCA_007004735.1	Salinigranum^halophilum	Scaffold		
+2080321	GCA_007123025.1	Haloferacaceae^archaeon	Contig		
+2018670	GCA_007123105.1	Salinarchaeum^sp.	Contig		
+1904752	GCA_007125235.1	Halobacteriales^archaeon	Contig		
+2497615	GCA_007127355.1	Haloarculaceae^archaeon	Contig		
+2004548	GCA_007127385.1	Methanosalsum^sp.	Contig		
+2004547	GCA_007130455.1	Methanocalculus^sp.	Contig		
+2497617	GCA_007131485.1	Halococcaceae^archaeon	Contig		
+2517205	GCA_007131865.1	Candidatus^Methanomethylophilaceae^archaeon	Contig		
+35747	GCA_007134425.1	Natronococcus^sp.	Contig		
+2184060	GCA_007135435.1	Natronomonas^sp.	Contig		
+1935978	GCA_007135505.1	Halovivax^sp.	Contig		
+2234134	GCA_007421925.1	Natronomonas^sp.^F16-60	Scaffold		
+2479206	GCA_007570915.1	Cenarchaeum^sp.	Contig		
+2592614	GCA_007655485.1	Halobellus^sp.^ZY21	Scaffold		
+2583990	GCA_007671685.1	Halorubrum^salsamenti	Scaffold		
+2583992	GCA_007671725.1	Halorubrum^depositum	Contig		
+2035267	GCA_007826885.1	Candidatus^Nitrosocosmicus^arcticus	Scaffold		
+2599399	GCA_007833275.1	Salarchaeum^sp.^JOR-1	Complete Genome		
+2594042	GCA_008000775.1	anaerobic^archaeon^MK-D1	Complete Genome		
+2055836	GCA_008122205.1	Natronococcus^sp.^LS1_42	Contig		
+1973142	GCA_008709555.1	Thermoplasma^sp.	Scaffold		
+1853685	GCA_008729005.1	Haloarcula^sp.^CBA1130	Contig		
+2650752	GCA_008806815.1	Haloferax^sp.^CBA1148	Contig		
+2650753	GCA_008806915.1	Haloferax^sp.^CBA1149	Contig		
+2650975	GCA_008831545.1	Halorussus^sp.^ZS-3	Complete Genome		
+2080451	GCA_008974855.1	archaeon^MnTg01	Contig		
+1364937	GCA_009176545.1	Salinigranum^salinum	Contig		
+2217660	GCA_009184575.1	Natronomonas^sp.^F18-79	Scaffold		
+2169593	GCA_009377575.1	Nitrososphaeraceae^archaeon	Scaffold		
+2109671	GCA_009379865.1	Candidatus^Nitrosocosmicus^sp.	Scaffold		
+348826	GCA_009392895.1	Natronorubrum^aibiense	Complete Genome		
+2107590	GCA_009392915.1	Candidatus^Forterrea^multitransposorum^CG_2015-17_Forterrea_25_41	Complete Genome		
+2663019	GCA_009601705.1	Sulfolobus^sp.^E5-1-F	Complete Genome		
+2565781	GCA_009617975.1	DPANN^group^archaeon^LC1Nh	Complete Genome		
+2610902	GCA_009617995.1	Halomicrobium^sp.^LC1Hm	Complete Genome		
+2666143	GCA_009674625.1	Haloferax^sp.^MBLA0078	Contig		
+1380432	GCA_009690625.1	Halorhabdus^sp.^CBA1104	Complete Genome		
+41675	GCA_009729035.1	Stygiolobus^azoricus	Complete Genome		
+69656	GCA_009729055.1	Sulfurisphaera^ohwakuensis	Complete Genome		
+12915	GCA_009729545.1	Acidianus^infernus	Contig		
+2668068	GCA_009741825.1	Halapricum^sp.^CBA1109	Contig		
+2668070	GCA_009741925.1	Natronomonas^sp.^CBA1123	Contig		
+2668074	GCA_009741975.1	Halobacterium^sp.^CBA1126	Contig		
+2668072	GCA_009742825.1	Halorubrum^sp.^CBA1125	Contig		
+1816183	GCA_009762275.1	Haloplanus^rallus	Complete Genome		
+2022468	GCA_009784005.1	Methanimicrococcus^sp.	Contig		
+66852	GCA_009784145.1	Methanobrevibacter^sp.	Contig		
+1710541	GCA_009789175.1	Halobacteriaceae^archaeon^HD8-45	Complete Genome		
+2690782	GCA_009806985.1	Halorubrum^sp.^JWXQ-INN^858	Scaffold		
+2690967	GCA_009807105.1	Natrialba^sp.^INN-245	Scaffold		
+1198300	GCA_009831455.1	Salinirussus^salinus	Contig		
+2692200	GCA_009831555.1	Halobacterium^sp.^PCN9	Contig		
+2692199	GCA_009831575.1	Halovenus^sp.^WSH3	Contig		
+2073113	GCA_009831625.1	Halobaculum^sp.^WSA2	Contig		
+2691917	GCA_009834785.1	Natronorubrum^sp.^JWXQ-INN-674	Scaffold		
+2604882	GCA_009843815.1	Cenarchaeum^sp.^SB0675_bin_21	Scaffold		
+2604881	GCA_009844325.1	Cenarchaeum^sp.^SB0673_bin_9	Scaffold		
+2563600	GCA_009861625.1	Candidatus^Nitrosocosmicus^sp.^SS	Scaffold		
+1078905	GCA_900065925.1	Candidatus^Nitrosotalea^devanaterra	Complete Genome		
+118062	GCA_900095295.1	Methanobacterium^congolense	Complete Genome		
+118126	GCA_900095385.1	Methanoculleus^chikugoensis	Contig		
+145261	GCA_900095815.1	Methanothermobacter^wolfeii	Complete Genome		
+1095776	GCA_900100335.1	Natronorubrum^texcoconense	Contig		
+890420	GCA_900100385.1	Halovenus^aranensis	Scaffold		
+660518	GCA_900102305.1	Halorientalis^regularis	Scaffold		
+261291	GCA_900102375.1	Halorubrum^xinjiangense	Scaffold		
+996166	GCA_900103505.1	Haloarchaeobius^iranensis	Scaffold		
+660521	GCA_900103715.1	Halogranum^gelatinilyticum	Contig		
+1095778	GCA_900104065.1	Natronobacterium^texcoconense	Scaffold		
+660517	GCA_900107195.1	Halobellus^clavatus	Contig		
+555874	GCA_900107665.1	Haloplanus^vescus	Scaffold		
+640943	GCA_900108095.1	Natronorubrum^sediminis	Scaffold		
+699433	GCA_900108165.1	Halobellus^limi	Scaffold		
+1267564	GCA_900108505.1	Halopenitus^malekzadehii	Scaffold		
+1367881	GCA_900110215.1	Halorientalis^persicus	Scaffold		
+660520	GCA_900110465.1	Halogranum^amylolyticum	Scaffold		
+355548	GCA_900110535.1	Halobacterium^jilantaiense	Contig		
+1186196	GCA_900110865.1	Natrinema^salaciae	Scaffold		
+392421	GCA_900111485.1	Haloterrigena^hispanica	Scaffold		
+1353158	GCA_900111645.1	Methanococcoides^vulcani	Scaffold		
+35743	GCA_900111935.1	Halorubrum^sodomense	Scaffold		
+553469	GCA_900112175.1	Halogeometricum^rufum	Contig		
+553467	GCA_900113245.1	Halopelagius^inordinatus	Contig		
+387340	GCA_900113615.1	Halorubrum^aquaticum	Contig		
+767519	GCA_900114435.1	Halomicrobium^zhouii	Scaffold		
+487685	GCA_900114835.1	Methanolobus^profundi	Scaffold		
+555875	GCA_900115785.1	Halogeometricum^limi	Scaffold		
+619731	GCA_900116205.1	Halostagnicola^kamekurae	Contig		
+43928	GCA_900129775.1	Halobaculum^gomorrense	Scaffold		
+1499975	GCA_900143675.1	Candidatus^Nitrosotalea^sinensis	Contig		
+553468	GCA_900156425.1	Haladaptatus^litoreus	Scaffold		
+308853	GCA_900156475.1	Natronorubrum^thiooxidans	Scaffold		
+1903277	GCA_900167955.1	Candidatus^Nitrosotalea^bavarica	Scaffold		
+1903276	GCA_900177045.1	Candidatus^Nitrosotalea^okcheonensis	Chromosome		
+413815	GCA_900182635.1	Halorubrum^cibi	Contig		
+63740	GCA_900188065.1	Halorubrum^vacuolatum	Contig		
+2016361	GCA_900198835.1	Thermococcus^sp.^EXT12c	Complete Genome		
+558529	GCA_900215575.1	Natronoarchaeum^philippinense	Contig		
+2058097	GCA_900248165.1	Candidatus^Nitrosocaldus^cavascurensis	Complete Genome		
+1798806	GCA_900696045.1	Candidatus^Nitrosocosmicus^franklandus	Complete Genome		
+1201011	GCA_900774055.1	Methanococcoides^sp.^AM1	Contig		
+1775544	GCA_900880625.1	Halorhabdus^rudnickae	Contig		
+2588691	GCA_902158735.1	Candidatus^Methanolliviera^sp.^GoM_oil	Contig		
+2588692	GCA_902158745.1	Candidatus^Methanolliviera^sp.^GoM_asphalt	Scaffold		
+2588693	GCA_902158755.1	Candidatus^Syntrophoarchaeum^sp.^GoM_oil	Contig		
+2600597	GCA_902410085.1	Haloferax^sp.^KTX1	Contig		
+2014372	GCA_902529885.1	uncultured^Candidatus^Woesearchaeota^archaeon	Contig		
+360837	GCA_902608175.1	uncultured^marine^group^I^thaumarchaeote	Contig		
+360836	GCA_902627615.1	uncultured^marine^group^III^euryarchaeote	Contig		

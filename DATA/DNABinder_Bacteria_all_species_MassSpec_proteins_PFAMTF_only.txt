@@ -1,0 +1,430 @@
+ID	SVM score	Prediction
+AAF10483.1	-0.58801567	non DNA-binding protein
+AAF11357.1	-1.8864896	non DNA-binding protein
+AAF11942.1	-0.32798021	non DNA-binding protein
+BAB79735.1	-0.86701449	non DNA-binding protein
+BAB79784.1	-3.6524146	non DNA-binding protein
+BAB80083.1	-1.6857549	non DNA-binding protein
+BAB80231.1	-1.9396017	non DNA-binding protein
+BAB80493.1	-0.58493973	non DNA-binding protein
+BAB80667.1	0.2199048	DNA-binding protein
+BAB80783.1	0.46900307	DNA-binding protein
+BAB81154.1	0.72573753	DNA-binding protein
+BAB81334.1	-1.771476	non DNA-binding protein
+BAB81341.1	-0.69236527	non DNA-binding protein
+BAB81360.1	-1.4805044	non DNA-binding protein
+BAB81522.1	-0.58291202	non DNA-binding protein
+BAB81673.1	-0.81561307	non DNA-binding protein
+BAB82010.1	-1.6890415	non DNA-binding protein
+BAB82040.1	-0.34223736	non DNA-binding protein
+BAD46990.1	-0.28886904	non DNA-binding protein
+BAD47063.1	0.5103175	DNA-binding protein
+BAD47065.1	0.4495771	DNA-binding protein
+BAD47146.1	0.86999908	DNA-binding protein
+BAD47278.1	0.044379091	DNA-binding protein
+BAD47284.1	-1.3565732	non DNA-binding protein
+BAD47323.1	-0.34648578	non DNA-binding protein
+BAD47507.1	-0.57469858	non DNA-binding protein
+BAD47742.1	-0.19230908	non DNA-binding protein
+BAD47795.1	-0.42793393	non DNA-binding protein
+BAD48639.1	0.10464873	DNA-binding protein
+BAD49147.1	-0.52850781	non DNA-binding protein
+BAD49358.1	0.064555152	DNA-binding protein
+BAD50245.1	-1.5565658	non DNA-binding protein
+BAD50360.1	-0.48046146	non DNA-binding protein
+BAD50386.1	-0.86130877	non DNA-binding protein
+BAD50429.1	-0.41866747	non DNA-binding protein
+BAD50473.1	-0.082184243	non DNA-binding protein
+BAD50478.1	-0.038194114	non DNA-binding protein
+BAD50533.1	-1.9155557	non DNA-binding protein
+BAD50605.1	0.39433713	DNA-binding protein
+BAD50861.1	0.66986212	DNA-binding protein
+BAD51080.1	0.068421189	DNA-binding protein
+BAD51202.1	-0.10277271	non DNA-binding protein
+BAD51253.1	-0.27157603	non DNA-binding protein
+BAF39351.1	-1.4978072	non DNA-binding protein
+BAF39548.1	-1.5287016	non DNA-binding protein
+BAF39701.1	-1.3025601	non DNA-binding protein
+BAF39807.1	-0.6494121	non DNA-binding protein
+BAF39865.1	-1.0807898	non DNA-binding protein
+BAF39891.1	-2.6192557	non DNA-binding protein
+BAF40020.1	-0.16272863	non DNA-binding protein
+BAF40136.1	-1.3198322	non DNA-binding protein
+BAF40234.1	-0.75676504	non DNA-binding protein
+AAO75689.1	-0.12384284	non DNA-binding protein
+AAO75997.1	-0.78888964	non DNA-binding protein
+AAO76675.1	0.01406153	DNA-binding protein
+AAO76679.1	-0.75833011	non DNA-binding protein
+AAO76835.1	-0.47673907	non DNA-binding protein
+AAO76991.1	-0.72479792	non DNA-binding protein
+AAO77151.1	-0.10205043	non DNA-binding protein
+AAO77156.1	0.3571688	DNA-binding protein
+AAO77271.1	0.66706656	DNA-binding protein
+AAO77467.1	-1.549446	non DNA-binding protein
+AAO77468.1	0.39634814	DNA-binding protein
+AAO77542.1	-1.2002756	non DNA-binding protein
+AAO77570.1	-2.0795327	non DNA-binding protein
+AAO77661.1	0.014912049	DNA-binding protein
+AAO77676.1	0.86324837	DNA-binding protein
+AAO77889.1	-0.17089997	non DNA-binding protein
+AAO78084.1	-0.24853552	non DNA-binding protein
+AAO78259.1	-2.037252	non DNA-binding protein
+AAO78502.1	-0.18126956	non DNA-binding protein
+AAO78562.1	-0.25234621	non DNA-binding protein
+AAO78563.1	0.98001019	DNA-binding protein
+AAO78623.1	-0.19435438	non DNA-binding protein
+AAO78662.1	-0.035463777	non DNA-binding protein
+AAO78861.1	-0.70378792	non DNA-binding protein
+AAO78867.1	-0.77659517	non DNA-binding protein
+AAO78875.1	0.6844278	DNA-binding protein
+AAO79098.1	-0.24804147	non DNA-binding protein
+AAO79102.1	2.2895115	DNA-binding protein
+AAO79140.1	-1.3865851	non DNA-binding protein
+AAO79309.1	-3.0094795	non DNA-binding protein
+AAO79452.1	-0.089205012	non DNA-binding protein
+AAO79634.1	-0.76623493	non DNA-binding protein
+AAO79752.1	-0.71608371	non DNA-binding protein
+AAO79825.1	-0.38872101	non DNA-binding protein
+AAO79838.1	0.86317064	DNA-binding protein
+ABR37744.1	1.0699021	DNA-binding protein
+ABR37830.1	-1.8230589	non DNA-binding protein
+ABR38026.1	-1.2777951	non DNA-binding protein
+ABR38104.1	-0.035061638	non DNA-binding protein
+ABR38171.1	-1.5144402	non DNA-binding protein
+ABR38283.1	-0.48207082	non DNA-binding protein
+ABR38747.1	1.0784869	DNA-binding protein
+ABR38999.1	-2.1584174	non DNA-binding protein
+ABR39018.1	0.16094421	DNA-binding protein
+ABR39093.1	-0.095311843	non DNA-binding protein
+ABR39184.1	-0.014527432	non DNA-binding protein
+ABR39304.1	1.1810607	DNA-binding protein
+ABR39620.1	0.12674799	DNA-binding protein
+ABR39997.1	-1.2868495	non DNA-binding protein
+ABR40236.1	-1.1801629	non DNA-binding protein
+ABR40238.1	-1.0435124	non DNA-binding protein
+ABR40370.1	0.004799213	DNA-binding protein
+ABR40416.1	-0.18587718	non DNA-binding protein
+ABR40620.1	0.31015818	DNA-binding protein
+ABR40937.1	-1.5720461	non DNA-binding protein
+ABR41041.1	2.161557	DNA-binding protein
+ABR41057.1	-0.05289485	non DNA-binding protein
+ABR41082.1	-0.57544957	non DNA-binding protein
+ABR41229.1	0.047902835	DNA-binding protein
+ABR42185.1	-0.87442501	non DNA-binding protein
+ABR42302.1	-1.3337463	non DNA-binding protein
+ABR42581.1	-0.34430737	non DNA-binding protein
+ABR42650.1	-0.17807714	non DNA-binding protein
+ABR42866.1	-0.3160702	non DNA-binding protein
+ABR42877.1	-0.82359363	non DNA-binding protein
+ABR43006.1	-0.06477906	non DNA-binding protein
+ABR43254.1	0.31504952	DNA-binding protein
+ABR43747.1	0.072230371	DNA-binding protein
+ABR43841.1	-1.4216552	non DNA-binding protein
+ABR43985.1	-0.41555532	non DNA-binding protein
+ABR44423.1	-0.65290603	non DNA-binding protein
+ABR44484.1	0.37185515	DNA-binding protein
+ABR45044.1	-1.2236976	non DNA-binding protein
+ABR45416.1	-0.063036944	non DNA-binding protein
+ABR45475.1	-0.57424467	non DNA-binding protein
+ABJ68889.1	-0.14321244	non DNA-binding protein
+ABJ68988.1	-0.31332508	non DNA-binding protein
+ABJ69250.1	-1.2350044	non DNA-binding protein
+ABJ69274.1	-1.4404072	non DNA-binding protein
+ABJ69284.1	0.4063425	DNA-binding protein
+ABJ69343.1	-0.72730379	non DNA-binding protein
+ABJ69477.1	-3.680574	non DNA-binding protein
+ABJ69643.1	-0.008667764	non DNA-binding protein
+ABJ69680.1	0.51131107	DNA-binding protein
+ABJ69761.1	-0.29971626	non DNA-binding protein
+ABJ69801.1	-0.096654027	non DNA-binding protein
+ABJ69905.1	-2.7870394	non DNA-binding protein
+ABJ70028.1	0.55478849	DNA-binding protein
+ABJ70049.1	0.96941824	DNA-binding protein
+ABJ70064.1	-0.77094493	non DNA-binding protein
+ABJ70377.1	0.5871341	DNA-binding protein
+ABJ70408.1	0.43802098	DNA-binding protein
+ABJ70426.1	-0.54644325	non DNA-binding protein
+ABJ70446.1	-0.64207079	non DNA-binding protein
+ABJ70639.1	0.5156967	DNA-binding protein
+ABJ70653.1	0.60751337	DNA-binding protein
+ABJ70664.1	1.0137622	DNA-binding protein
+ABJ70788.1	0.046822562	DNA-binding protein
+ABJ70870.1	0.59046133	DNA-binding protein
+ABJ70877.1	-0.94335197	non DNA-binding protein
+ABJ70881.1	2.7492434	DNA-binding protein
+ABJ70922.1	-0.43124743	non DNA-binding protein
+ABJ70961.1	-0.86759553	non DNA-binding protein
+ACR74786.1	0.73115367	DNA-binding protein
+ACR74798.1	0.62336298	DNA-binding protein
+ACR74854.1	-1.6783639	non DNA-binding protein
+ACR75903.1	-0.20118722	non DNA-binding protein
+ACR75946.1	-1.1448894	non DNA-binding protein
+ACR75994.1	-1.4659587	non DNA-binding protein
+ACR76029.1	0.36905319	DNA-binding protein
+ACR76062.1	-0.83221239	non DNA-binding protein
+ACR76119.1	-3.3796752	non DNA-binding protein
+ACR76732.1	-1.2560431	non DNA-binding protein
+ACR76866.1	-1.2422777	non DNA-binding protein
+ACI19418.1	-0.68875069	non DNA-binding protein
+ACI19870.1	-0.20000842	non DNA-binding protein
+ACZ23765.1	-0.62889944	non DNA-binding protein
+ACZ23856.1	-1.3473271	non DNA-binding protein
+ACZ23924.1	-2.8523578	non DNA-binding protein
+ACZ23991.1	-0.42033907	non DNA-binding protein
+ACZ24066.1	0.43859218	DNA-binding protein
+ACZ24108.1	0.001915722	DNA-binding protein
+ACZ24377.1	0.16101836	DNA-binding protein
+ACZ24479.1	-2.072543	non DNA-binding protein
+ACZ24607.1	0.82227554	DNA-binding protein
+ACZ24656.1	0.64162691	DNA-binding protein
+ACZ24801.1	-0.34910358	non DNA-binding protein
+ACZ24884.1	1.1245782	DNA-binding protein
+ACZ25046.1	-0.57956957	non DNA-binding protein
+ACZ25121.1	0.57699436	DNA-binding protein
+ACZ25301.1	-0.74238062	non DNA-binding protein
+ACZ25387.1	0.22705174	DNA-binding protein
+ACZ25405.1	0.35207185	DNA-binding protein
+ACZ25424.1	-1.0079806	non DNA-binding protein
+ACZ25454.1	1.3946222	DNA-binding protein
+ACZ25459.1	-0.8080368	non DNA-binding protein
+CAR06305.1	0.39246288	DNA-binding protein
+CAR06718.1	1.7251718	DNA-binding protein
+CAR06828.1	-1.4107158	non DNA-binding protein
+CAR06873.1	0.55243511	DNA-binding protein
+CAR06987.1	0.091231063	DNA-binding protein
+CAR07051.1	-3.3057591	non DNA-binding protein
+CAR07066.1	1.069689	DNA-binding protein
+CAR07268.1	-1.9164118	non DNA-binding protein
+CAR07310.1	-2.6582909	non DNA-binding protein
+CAR08010.2	-1.4665517	non DNA-binding protein
+CAR08036.2	1.00804	DNA-binding protein
+CAR08218.2	-2.6338682	non DNA-binding protein
+CAR08307.2	-0.22226472	non DNA-binding protein
+CAR09155.1	-1.4175523	non DNA-binding protein
+CAR09171.2	-0.091641508	non DNA-binding protein
+CAR09182.1	-0.05050696	non DNA-binding protein
+CAR10027.2	-0.98945291	non DNA-binding protein
+CAR10289.2	0.92424234	DNA-binding protein
+CAR10372.2	-4.0955988	non DNA-binding protein
+CAR10453.2	1.0226923	DNA-binding protein
+CAR10563.1	-0.79472063	non DNA-binding protein
+CAR10921.1	-1.0057218	non DNA-binding protein
+ADL02830.1	-0.27388686	non DNA-binding protein
+ADL02921.1	-2.1156198	non DNA-binding protein
+ADL03051.1	-3.3176521	non DNA-binding protein
+ADL03143.1	0.26530179	DNA-binding protein
+ADL03331.1	-1.0156812	non DNA-binding protein
+ADL03412.1	-0.24896899	non DNA-binding protein
+ADL03463.1	-0.31725544	non DNA-binding protein
+ADL03563.1	-0.26354497	non DNA-binding protein
+ADL03686.1	0.70388696	DNA-binding protein
+ADL03735.1	-0.2024047	non DNA-binding protein
+ADL03774.1	-1.1746518	non DNA-binding protein
+ADL03916.1	-1.445379	non DNA-binding protein
+ADL03963.1	-1.0262351	non DNA-binding protein
+ADL04084.1	-0.21634505	non DNA-binding protein
+ADL04141.1	0.095330924	DNA-binding protein
+ADL04145.1	-2.1855829	non DNA-binding protein
+ADL04150.1	-0.96432207	non DNA-binding protein
+ADL04221.1	-0.75004165	non DNA-binding protein
+ADL04238.1	-0.55205923	non DNA-binding protein
+ADL04420.1	-0.58715623	non DNA-binding protein
+ADL04690.1	0.88749507	DNA-binding protein
+ADL04820.1	-4.1889713	non DNA-binding protein
+ADL04846.1	0.10358271	DNA-binding protein
+ADL05036.1	-0.76074386	non DNA-binding protein
+ADL05233.1	-0.49633078	non DNA-binding protein
+ADL05274.1	-0.96785025	non DNA-binding protein
+ADL05762.1	-0.9508994	non DNA-binding protein
+ADL05875.1	-0.8781112	non DNA-binding protein
+ADL05910.1	-0.64172226	non DNA-binding protein
+ADL06080.1	0.28914792	DNA-binding protein
+ADL06409.1	-0.14647053	non DNA-binding protein
+ADL06418.1	-0.38211549	non DNA-binding protein
+ADM36236.1	1.2635944	DNA-binding protein
+ADM36566.1	-3.7683497	non DNA-binding protein
+ADM36973.1	-1.1835358	non DNA-binding protein
+ADM37417.1	0.60343574	DNA-binding protein
+ADM37606.1	-0.28013267	non DNA-binding protein
+ADM38049.1	-0.66112557	non DNA-binding protein
+ADM38088.1	0.2984473	DNA-binding protein
+ADM38127.1	-0.80899729	non DNA-binding protein
+ADM38187.1	-0.038563458	non DNA-binding protein
+ADM38807.1	-0.16579061	non DNA-binding protein
+ADN01588.1	-0.17098651	non DNA-binding protein
+ADN01838.1	1.1368461	DNA-binding protein
+ADN02238.1	0.97543232	DNA-binding protein
+ADN02590.1	1.5760763	DNA-binding protein
+ADN02760.1	0.5463892	DNA-binding protein
+ADN02937.1	1.2570629	DNA-binding protein
+ADN02946.1	1.8151268	DNA-binding protein
+EDK23248.1	-1.4474584	non DNA-binding protein
+EDK23650.1	-0.019889688	non DNA-binding protein
+EDK23694.1	-1.2689076	non DNA-binding protein
+EDK23754.1	-0.90179003	non DNA-binding protein
+EDK23894.1	-0.28535855	non DNA-binding protein
+EDK24381.1	-0.38204811	non DNA-binding protein
+EDK24542.1	-1.0905413	non DNA-binding protein
+EDK24657.1	-1.4355424	non DNA-binding protein
+EDK25029.1	0.19485908	DNA-binding protein
+EDK25200.1	1.0280355	DNA-binding protein
+EDK25639.1	0.30411412	DNA-binding protein
+EDK25647.1	0.25738955	DNA-binding protein
+EDK25741.1	-3.2603098	non DNA-binding protein
+EDO51769.1	-1.2517515	non DNA-binding protein
+EDO52040.1	0.41216637	DNA-binding protein
+EDO52042.1	0.97946015	DNA-binding protein
+EDO52113.1	-0.26140074	non DNA-binding protein
+EDO52158.1	-0.71607302	non DNA-binding protein
+EDO52245.1	0.8313943	DNA-binding protein
+EDO52246.1	0.74543853	DNA-binding protein
+EDO52250.1	-0.70619051	non DNA-binding protein
+EDO52314.1	0.97300153	DNA-binding protein
+EDO52429.1	-0.53591637	non DNA-binding protein
+EDO52484.1	-0.36312679	non DNA-binding protein
+EDO52684.1	-2.9053579	non DNA-binding protein
+EDO53342.1	0.45516455	DNA-binding protein
+EDO53385.1	-0.23151677	non DNA-binding protein
+EDO53827.1	0.40902313	DNA-binding protein
+EDO54026.1	0.27338352	DNA-binding protein
+EDO54662.1	0.34973119	DNA-binding protein
+EDO54668.1	0.77930077	DNA-binding protein
+EDO54872.1	-1.1898167	non DNA-binding protein
+EDO54895.1	-0.09580783	non DNA-binding protein
+EDO55170.1	-0.93547452	non DNA-binding protein
+EDO55947.1	-1.3513605	non DNA-binding protein
+EDO55955.1	-0.13206848	non DNA-binding protein
+EDO56059.1	1.2900329	DNA-binding protein
+EDO56302.1	0.12872091	DNA-binding protein
+EFB33701.1	2.5971788	DNA-binding protein
+EFB33856.1	-0.80346434	non DNA-binding protein
+EFB33969.1	-0.12283702	non DNA-binding protein
+EFB34572.1	-0.040447553	non DNA-binding protein
+EFB35015.1	1.6935816	DNA-binding protein
+EFB35030.1	-0.63962077	non DNA-binding protein
+EFB35043.1	-0.84941136	non DNA-binding protein
+EFB35410.1	-0.19705977	non DNA-binding protein
+EFB35529.1	-0.02131806	non DNA-binding protein
+EFB35551.1	0.5610878	DNA-binding protein
+EFB35699.1	-0.79278727	non DNA-binding protein
+EFB35712.1	-1.3175242	non DNA-binding protein
+EFB35744.1	-4.7461305	non DNA-binding protein
+EFB35835.1	-1.8528408	non DNA-binding protein
+EFB36003.1	1.5657153	DNA-binding protein
+AEH55116.1	0.52661688	DNA-binding protein
+AEH55217.1	-0.87768306	non DNA-binding protein
+AEH55347.1	2.0934882	DNA-binding protein
+AEH55534.1	-1.1888265	non DNA-binding protein
+AEH55907.1	0.28564465	DNA-binding protein
+AEH56039.1	-0.33997593	non DNA-binding protein
+AEH56108.1	0.48384906	DNA-binding protein
+AEH56146.1	-0.36550567	non DNA-binding protein
+AEH56228.1	-0.17332422	non DNA-binding protein
+AEH56269.1	0.68545833	DNA-binding protein
+AEH56292.1	1.5196064	DNA-binding protein
+AEH56442.1	0.21362616	DNA-binding protein
+AEH56470.1	0.11475357	DNA-binding protein
+AEH56492.1	-0.76782378	non DNA-binding protein
+AEH56591.1	-0.33819748	non DNA-binding protein
+AEH56604.1	0.79620675	DNA-binding protein
+AEH56651.1	-1.0459317	non DNA-binding protein
+AEH56882.1	-0.67072095	non DNA-binding protein
+AEH56898.1	-0.51305782	non DNA-binding protein
+AEH56946.1	0.58423276	DNA-binding protein
+AEH56974.1	-0.28834665	non DNA-binding protein
+EBA38496.1	-0.92556725	non DNA-binding protein
+EBA38984.1	0.24348434	DNA-binding protein
+EBA38992.1	-0.71606915	non DNA-binding protein
+EBA39106.1	-1.3696958	non DNA-binding protein
+EBA39141.1	0.050544794	DNA-binding protein
+EBA39146.1	0.72756839	DNA-binding protein
+EBA39163.1	0.35298753	DNA-binding protein
+EBA39184.1	-0.49760764	non DNA-binding protein
+EBA39247.1	0.20284321	DNA-binding protein
+EBA39270.1	0.1132089	DNA-binding protein
+EBA39413.1	-0.13839636	non DNA-binding protein
+EBA39687.1	1.338775	DNA-binding protein
+EBA39694.1	0.1871801	DNA-binding protein
+EBA39877.1	-0.8983716	non DNA-binding protein
+EBA40091.1	-0.76580354	non DNA-binding protein
+EBA40112.1	-0.820237	non DNA-binding protein
+EBA40126.1	0.60772546	DNA-binding protein
+EBA40139.1	0.61578712	DNA-binding protein
+EBA40149.1	-0.97519889	non DNA-binding protein
+EBA40197.1	0.59862224	DNA-binding protein
+EBA40463.1	-0.11248436	non DNA-binding protein
+EBA40478.1	-1.9684461	non DNA-binding protein
+EBA40673.1	0.056799068	DNA-binding protein
+EFC90468.1	-0.31647036	non DNA-binding protein
+EFC90599.1	-0.73066858	non DNA-binding protein
+EFC90732.1	0.54195525	DNA-binding protein
+EFC91429.1	0.3755927	DNA-binding protein
+EFC91456.1	-2.241166	non DNA-binding protein
+EFC91831.1	0.78203519	DNA-binding protein
+EFC91901.1	0.33317861	DNA-binding protein
+EFC92113.1	2.0836379	DNA-binding protein
+EFC92305.1	-2.7759809	non DNA-binding protein
+ADY31308.1	1.0748156	DNA-binding protein
+ADY31399.1	0.56837621	DNA-binding protein
+ADY31411.1	-0.29716649	non DNA-binding protein
+ADY31484.1	-0.60637185	non DNA-binding protein
+ADY31508.1	-0.33504187	non DNA-binding protein
+ADY31541.1	-0.74838745	non DNA-binding protein
+ADY31581.1	0.035754173	DNA-binding protein
+ADY31687.1	1.3758839	DNA-binding protein
+ADY31799.1	0.46402302	DNA-binding protein
+ADY31801.1	-0.802692	non DNA-binding protein
+ADY31925.1	-0.12866673	non DNA-binding protein
+ADY31965.1	0.31080731	DNA-binding protein
+ADY31982.1	0.40409843	DNA-binding protein
+ADY32095.1	-1.4934154	non DNA-binding protein
+ADY32229.1	-1.4076303	non DNA-binding protein
+ADY32240.1	-0.70529624	non DNA-binding protein
+ADY32315.1	0.83526408	DNA-binding protein
+ADY32395.1	-2.4566826	non DNA-binding protein
+ADY32513.1	0.080254031	DNA-binding protein
+ADY32582.1	-1.4488559	non DNA-binding protein
+ADY32638.1	0.52794185	DNA-binding protein
+ADY32728.1	0.30638984	DNA-binding protein
+ADY32769.1	-0.50642589	non DNA-binding protein
+ADY32773.1	-0.48622432	non DNA-binding protein
+ADY32832.1	-0.84619188	non DNA-binding protein
+ADY32887.1	0.23089029	DNA-binding protein
+ADY32893.1	0.25584488	DNA-binding protein
+ADY32901.1	-0.57924818	non DNA-binding protein
+ADY32924.1	0.41372753	DNA-binding protein
+ADY33355.1	0.93427465	DNA-binding protein
+ADY33445.1	1.9308836	DNA-binding protein
+ADY33454.1	-1.1221989	non DNA-binding protein
+ADY33662.1	-0.92953479	non DNA-binding protein
+ADY33694.1	-0.32208554	non DNA-binding protein
+ADY33721.1	-0.27140908	non DNA-binding protein
+ADY33793.1	-0.98437135	non DNA-binding protein
+ADY33813.1	0.16532482	DNA-binding protein
+ADY34219.1	-2.3841597	non DNA-binding protein
+ADY34310.1	0.90046812	DNA-binding protein
+ADY34323.1	-0.27947216	non DNA-binding protein
+ADY34350.1	0.26240368	DNA-binding protein
+ADY34359.1	-1.2040317	non DNA-binding protein
+ADY34463.1	-0.23743612	non DNA-binding protein
+ADY34559.1	-0.43229524	non DNA-binding protein
+ADY34561.1	-0.23825789	non DNA-binding protein
+AIH03403.1	-0.72755747	non DNA-binding protein
+AIH03880.1	0.011226341	DNA-binding protein
+AIH03898.1	0.20065613	DNA-binding protein
+AIH04309.1	1.3064706	DNA-binding protein
+CUN35949.1	-0.37671251	non DNA-binding protein
+CUN44951.1	0.06527631	DNA-binding protein
+CUN51003.1	-0.9915222	non DNA-binding protein
+CUN51709.1	-0.091802573	non DNA-binding protein
+CUN57430.1	-1.2932257	non DNA-binding protein
+CUN67535.1	-0.99336556	non DNA-binding protein
+CUN77355.1	-0.025290464	non DNA-binding protein
+CUN77606.1	-0.36833778	non DNA-binding protein
+CUN84551.1	-0.52041379	non DNA-binding protein
+CUN91998.1	0.26475146	DNA-binding protein
+CUO02480.1	-1.1548364	non DNA-binding protein
+CUO15803.1	-0.71575487	non DNA-binding protein
+CUO26196.1	-1.4764705	non DNA-binding protein
+CUO35810.1	-1.370685	non DNA-binding protein
+CUO40047.1	-0.5905412	non DNA-binding protein
