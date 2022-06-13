@@ -1,2 +1,1 @@
-Scripts relative to quantitative analysis of NAPs in archaea. Most are annotated but might contain graphs not included in the study. To be cleaned up.
-Antoine Hocher
+Scripts relative to our quantitative analysis of NAPs in archaea. This folder contains most script and the processed data required to run it. In some instances, users will have to download publicly available data to run scripts entirely. The data folder contains the key data used in our manuscript. Raw and processed Mass spectrometry data that were produced in house are available from the PRIDE database. List of all NAPs detected as well as NCBI unique genome ID are available from Table S1 of the manuscript. I'm happy to answer any question by email (see corresponding manuscript)
